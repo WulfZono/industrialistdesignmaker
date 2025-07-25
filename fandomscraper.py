@@ -100,7 +100,7 @@ def parse_machine_page(url):
             data["cost"] = text
             break
     
-    # Try to extract recipe materials
+    # Recipes
     for table in content.find_all("table"):
         rows = table.find_all("tr")
         for row in rows:
@@ -108,8 +108,9 @@ def parse_machine_page(url):
             if len(cells) >= 2:
                 material = cells[0].get_text(strip=True)
                 qty = cells[1].get_text(strip=True)
-                if material and qty:
-                    data["recipe"].append({"material": material, "quantity": qty})
+                output = cells[2].get_text(strip=True) if len(cells) > 2 else ""
+                if material and qty and output and "Power" != qty:
+                    data["recipe"].append({"material": material, "quantity": qty, "output": output})
     return data
 
 def parse_item_page(url):
@@ -118,11 +119,7 @@ def parse_item_page(url):
     data = {
         "url": url,
         "name": "",
-        "value": "",
-        "crafting": {
-            "input": [],
-            "output": []
-        }
+        "value": ""
     }
 
     title = soup.find("h1", {"id": "firstHeading"})
@@ -133,29 +130,12 @@ def parse_item_page(url):
     if not content:
         return data
 
-    # Find item type
-    for info_div in content.find_all("div", class_="information"):
-        prev = info_div.find_previous(string=True)
-        if prev and "Type" in prev:
-            text = info_div.get_text(strip=True)
-            if text.startswith("Type"):
-                text = text[len("Type"):].lstrip(": \u00A0")
-            data["type"] = text
+    # Find item value
+    value_div = content.find_all("div", class_="pi-data-value pi-font")
+    for div in value_div:
+        if "$" in div.get_text(strip=True):
+            data["value"] = div.get_text(strip=True)
             break
-
-    # Find crafting recipes
-    crafting_section = content.find("h2", string="Crafting")
-    if crafting_section:
-        for ul in crafting_section.find_all_next("ul"):
-            for li in ul.find_all("li"):
-                item_link = li.find("a")
-                if item_link:
-                    item_name = item_link.get_text(strip=True)
-                    data["crafting"]["output"].append(item_name)
-                qty = li.get_text(strip=True).split(" ")[0]
-                if qty:
-                    data["crafting"]["input"].append({"item": item_name, "quantity": qty})
-
     return data
 
 

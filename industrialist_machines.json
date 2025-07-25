@@ -1,0 +1,2976 @@
+[
+  {
+    "url": "https://industrialist.fandom.com/wiki/Advanced_Assembler",
+    "name": "Advanced Assembler",
+    "input_energy": "\u26a1200kMF/s-1MMF/s",
+    "capacity": "\u26a11MMF",
+    "pollution": "0%/h",
+    "size": "12x6",
+    "cost": "$150,000",
+    "recipe": [
+      {
+        "material": "12xPlanks+20xNails",
+        "quantity": "5s +\u26a1200kMF/s",
+        "output": "1xChair"
+      },
+      {
+        "material": "2xSteel Rod+4xGear",
+        "quantity": "5s +\u26a1200kMF/s",
+        "output": "Crankshaft"
+      },
+      {
+        "material": "6xBlack Dye+3xPlanks",
+        "quantity": "5s +\u26a1200kMF/s",
+        "output": "1xToy"
+      },
+      {
+        "material": "4xCopper Wire+8xRubber",
+        "quantity": "1s +\u26a11MMF/s",
+        "output": "8xInsulated Wire"
+      },
+      {
+        "material": "2xPlastic Casing+2xSteel Rod+\n4xGear",
+        "quantity": "10s +\u26a1100kMF/s",
+        "output": "1xGearbox"
+      },
+      {
+        "material": "2xPlastic Casing+1xCrankshaft",
+        "quantity": "5s +\u26a1200kMF/s",
+        "output": "1xGearbox"
+      },
+      {
+        "material": "2xAluminium Ingot+4xSteel Ingot",
+        "quantity": "5s +\u26a1200kMF/s",
+        "output": "1xTire Rim"
+      },
+      {
+        "material": "4xRubber+1xTire Rim",
+        "quantity": "5s +\u26a1200kMF/s",
+        "output": "1xTire"
+      },
+      {
+        "material": "2xGraphite Iron Electrode+10xPlastic Pellets+\n4xLithium Carbonate",
+        "quantity": "10s +\u26a1100kMF/s",
+        "output": "1xUncharged Lithium Ion Battery"
+      },
+      {
+        "material": "2xGraphite Zinc Electrode+10xPlastic Pellets+\n4xLithium Carbonate",
+        "quantity": "10s +\u26a1100kMF/s",
+        "output": "1xUncharged Lithium Ion Battery"
+      },
+      {
+        "material": "8xCharged Lithium Ion Battery+8xRubber+\n12xCopper Plate",
+        "quantity": "10s +\u26a1100kMF/s",
+        "output": "1xLithium Battery Pack"
+      },
+      {
+        "material": "5xCoal+2xIron Coil+\n2xPaper+\n2xSand",
+        "quantity": "5s +\u26a1200kMF/s",
+        "output": "1xFilter"
+      },
+      {
+        "material": "5xCoal+2xIron Coil+\n2xPaper+\n2xGravel",
+        "quantity": "5s +\u26a1200kMF/s",
+        "output": "1xFilter"
+      },
+      {
+        "material": "6xGunpowder+6xPaper",
+        "quantity": "5s +\u26a1200kMF/s",
+        "output": "1xDynamite"
+      },
+      {
+        "material": "40xInsulated Wire+2xSteel Rod",
+        "quantity": "5s +\u26a1200kMF/s",
+        "output": "2xElectromagnet"
+      },
+      {
+        "material": "6xElectromagnet+2xSteel Rod+\n4xSteel Plate+\n2xMachine Oil",
+        "quantity": "5s +\u26a1200kMF/s",
+        "output": "2xElectric Motor"
+      },
+      {
+        "material": "4xElectromagnet+2xSteel Rod+\n4xSteel Plate+\n2xMachine Oil+\n0.2xFerroaluminium Magnet",
+        "quantity": "5s +\u26a1200kMF/s",
+        "output": "2xElectric Motor"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Advanced_Coal_Drill",
+    "name": "Advanced Coal Drill",
+    "input_energy": "\u26a19kMF/s",
+    "capacity": "\u26a160kMF",
+    "pollution": "0%/h",
+    "size": "10x4",
+    "cost": "$1,000",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Advanced_Copper_Drill",
+    "name": "Advanced Copper Drill",
+    "input_energy": "\u26a16kMF/s",
+    "capacity": "\u26a160kMF",
+    "pollution": "0%/h",
+    "size": "8x4",
+    "cost": "$520",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Advanced_Diesel_Refinery",
+    "name": "Advanced Diesel Refinery",
+    "input_energy": "\u26a11MMF/s",
+    "capacity": "\u26a13MMF",
+    "pollution": "0%/h",
+    "size": "14x14",
+    "cost": "$10,000",
+    "recipe": [
+      {
+        "material": "3.15xCrude Diesel+0.15xMachine Oil",
+        "quantity": "1s +\u26a11MMF/s",
+        "output": "2.87xPoor Quality Diesel+\n0.28xResidue"
+      },
+      {
+        "material": "2.87xPoor Quality Diesel+0.15xMachine Oil",
+        "quantity": "1s +\u26a11MMF/s",
+        "output": "2.59xDiesel+\n0.28xResidue"
+      },
+      {
+        "material": "2.59xDiesel+0.15xMachine Oil",
+        "quantity": "1s +\u26a11MMF/s",
+        "output": "2.38xRefined Diesel+\n0.21xResidue"
+      },
+      {
+        "material": "2.38xRefined Diesel+0.15xMachine Oil",
+        "quantity": "1s +\u26a11MMF/s",
+        "output": "2.17xGasoline+\n0.21xResidue"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Advanced_Electric_Furnace",
+    "name": "Advanced Electric Furnace",
+    "input_energy": "\u26a112kMF/s-40kMF/s",
+    "capacity": "\u26a1250kMF",
+    "pollution": "0.32%/h",
+    "size": "9x9",
+    "cost": "$100,000",
+    "recipe": [
+      {
+        "material": "2xRaw Copper",
+        "quantity": "3s +\u26a140kMF/s",
+        "output": "2xLiquid Copper"
+      },
+      {
+        "material": "2xRaw Iron",
+        "quantity": "5s +\u26a124kMF/s",
+        "output": "2xLiquid Iron"
+      },
+      {
+        "material": "2xIron Ingot",
+        "quantity": "10s +\u26a112kMF/s",
+        "output": "3.6xLiquid Iron"
+      },
+      {
+        "material": "2xCopper Ingot",
+        "quantity": "6s +\u26a120kMF/s",
+        "output": "3.6xLiquid Copper"
+      },
+      {
+        "material": "5.33xCopper Mix",
+        "quantity": "3s +\u26a140kMF/s",
+        "output": "10.4xLiquid Copper"
+      },
+      {
+        "material": "6.4xIron Mix",
+        "quantity": "5s +\u26a124kMF/s",
+        "output": "14xLiquid Iron"
+      },
+      {
+        "material": "10xSulfur",
+        "quantity": "5s +\u26a124kaMF/s",
+        "output": "20xLiquid Sulfur"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Advanced_Oil_Seperator",
+    "name": "Advanced Oil Seperator",
+    "input_energy": "\u26a12.5MMF/s",
+    "capacity": "\u26a125MMF",
+    "pollution": "0.324%/h",
+    "size": "22x22",
+    "cost": "$1,250,000",
+    "recipe": [
+      {
+        "material": "500xSteam+40xCrude Oil",
+        "quantity": "10s +\u26a12.5 MMF/s",
+        "output": "5xResidue+\n4xCoke Fuel+\n20xHeavy Oil+\n12xHydrogen Sulfide"
+      },
+      {
+        "material": "500xSteam+40xHeavy Oil",
+        "quantity": "10s +\u26a12.5 MMF/s",
+        "output": "10xResidue+\n44xCoke Fuel"
+      },
+      {
+        "material": "500xSteam+40xFracking Oil",
+        "quantity": "10s +\u26a12.5 MMF/s",
+        "output": "15xResidue+\n20xHeavy Oil"
+      },
+      {
+        "material": "500xHigh Pressure Steam+40xLight Oil",
+        "quantity": "10s +\u26a12.5 MMF/s",
+        "output": "15xResidue+\n6xHydrogen Sulfide+\n10xHeavy Oil"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Alloyer",
+    "name": "Alloyer",
+    "input_energy": "\u26a1150kMF/s",
+    "capacity": "\u26a17MMF",
+    "pollution": "0.324%/h",
+    "size": "10x6",
+    "cost": "$999,999",
+    "recipe": [
+      {
+        "material": "1xGold Ingot+2xAluminium Ingot+\n200xSteam",
+        "quantity": "Variable/s +\u26a1150kMF/s",
+        "output": "2xMolten Purple Gold"
+      },
+      {
+        "material": "4xIron Ingot+2xAluminium Ingot+\n200xSteam",
+        "quantity": "Variable/s +\u26a1150kMF/s",
+        "output": "2xMolten Ferroaluminium Alloy"
+      },
+      {
+        "material": "6xCopper Ingot+3xZinc+\n200xSteam",
+        "quantity": "Variable/s +\u26a1150kMF/s",
+        "output": "9xLiquid Brass"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/American_Oil_Rig",
+    "name": "American Oil Rig",
+    "input_energy": "\u26a150kMF/s",
+    "capacity": "\u26a1100kMF",
+    "pollution": "0.0216%/h",
+    "size": "8x2",
+    "cost": "$5000",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Atmospheric_Distillation_Plant",
+    "name": "Atmospheric Distillation Plant",
+    "input_energy": "\u26a1625kMF/s",
+    "capacity": "\u26a15MMF",
+    "pollution": "6.48%/h",
+    "size": "16x16",
+    "cost": "$1,000,000",
+    "recipe": [
+      {
+        "material": "200xFracking Oil",
+        "quantity": "8s +\u26a1625kMF/s",
+        "output": "10xResidue+\n40xHeavy Oil+\n80xLight Oil+\n10xNaphta+\n20xGasoline+\n720xWater Free Gas+\n20xCrude Oil"
+      },
+      {
+        "material": "200xWater",
+        "quantity": "8s +\u26a1625kMF/s",
+        "output": "64xConcentrated Salt Solution+\n136xDistilled Water"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Battery_Charger",
+    "name": "Battery Charger",
+    "input_energy": "\u26a1318kMF/s",
+    "capacity": "\u26a11MMF",
+    "pollution": "0%/h",
+    "size": "4x2",
+    "cost": "$100,000",
+    "recipe": [
+      {
+        "material": "2xUncharged Lithium Ion Battery",
+        "quantity": "11s +\u26a1318kMF/s",
+        "output": "2xCharged Lithium Ion Battery"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Blast_Furnace",
+    "name": "Blast Furnace",
+    "input_energy": "\u26a115kMF/s",
+    "capacity": "\u26a15MMF",
+    "pollution": "0.216%/h",
+    "size": "8x8",
+    "cost": "$60,000",
+    "recipe": [
+      {
+        "material": "4xCoal+1xIron Ingot",
+        "quantity": "5s +\u26a115kMF/s",
+        "output": "2xSteel Ingot"
+      },
+      {
+        "material": "5xCoal+3.2xIron Mix",
+        "quantity": "5s +\u26a115kMF/s",
+        "output": "6xSteel Ingot"
+      },
+      {
+        "material": "1.66xCoal+1.6xIron Powder",
+        "quantity": "5s +\u26a115kMF/s",
+        "output": "3.2xIron Mix"
+      },
+      {
+        "material": "3.32xCoal+2.66xCopper Powder",
+        "quantity": "5s +\u26a115kMF/s",
+        "output": "5.32xCopper Mix"
+      },
+      {
+        "material": "4xCoal+2xOak Log",
+        "quantity": "5s +\u26a115kMF/s",
+        "output": "6xCoke Fuel"
+      },
+      {
+        "material": "4xCoal+4xSand",
+        "quantity": "5s +\u26a115kMF/s",
+        "output": "5xSilicon"
+      },
+      {
+        "material": "4xCoke Fuel+4xSand",
+        "quantity": "5s +\u26a115kMF/s",
+        "output": "10xSilicon"
+      },
+      {
+        "material": "4xCoke Fuel+4xCrushed Bauxite",
+        "quantity": "5s +\u26a115kMF/s",
+        "output": "6xAlumina"
+      },
+      {
+        "material": "1xCoke Fuel+2xIron Ingot",
+        "quantity": "5s +\u26a115kMF/s",
+        "output": "6xSteel Ingot"
+      },
+      {
+        "material": "1.5xCoke Fuel+19.2xIron Mix",
+        "quantity": "5s +\u26a115kMF/s",
+        "output": "24xSteel Ingot"
+      },
+      {
+        "material": "1xCoke Fuel+4.8xIron Powder",
+        "quantity": "5s +\u26a115kMF/s",
+        "output": "12.8xIron Mix"
+      },
+      {
+        "material": "1xCoke Fuel+7.98xCopper Powder",
+        "quantity": "5s +\u26a115kMF/s",
+        "output": "21.28xCopper Mix"
+      },
+      {
+        "material": "2xCoke Fuel+4xRock",
+        "quantity": "5s +\u26a115kMF/s",
+        "output": "6xIron Mix"
+      },
+      {
+        "material": "4xCoal+4xRock",
+        "quantity": "5s +\u26a115kMF/s",
+        "output": "4xIron Mix"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Blast_Furnace_MK2",
+    "name": "Blast Furnace MK2",
+    "input_energy": "\u26a11.25MMF/s",
+    "capacity": "\u26a125MMF",
+    "pollution": "",
+    "size": "16x16",
+    "cost": "$5,000,000",
+    "recipe": [
+      {
+        "material": "300xCoal+100xIron Ingot",
+        "quantity": "20s +\u26a11.25MMF/s",
+        "output": "200xSteel Ingot"
+      },
+      {
+        "material": "200xCoal+50xOak Log",
+        "quantity": "20s +\u26a11.25MMF/s",
+        "output": "300xCoke Fuel"
+      },
+      {
+        "material": "200xCoke Fuel+10xOak Log",
+        "quantity": "20s +\u26a11.25MMF/s",
+        "output": "300xCoke Fuel"
+      },
+      {
+        "material": "50xCoke Fuel+100xIron Ingot",
+        "quantity": "20s +\u26a11.25MMF/s",
+        "output": "300xSteel Ingot"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Boiler",
+    "name": "Boiler",
+    "input_energy": "Capacity\u26a10MF",
+    "capacity": "\u26a10MF",
+    "pollution": "0%/h",
+    "size": "8x6",
+    "cost": "$900",
+    "recipe": [
+      {
+        "material": "3xWater+3xWater",
+        "quantity": "1s",
+        "output": "3xWater+\n90xSteam"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Bottling_Plant",
+    "name": "Bottling Plant",
+    "input_energy": "\u26a1150kMF/s",
+    "capacity": "\u26a11MMF",
+    "pollution": "0%/h",
+    "size": "8x6",
+    "cost": "$100,000",
+    "recipe": [
+      {
+        "material": "8xFiltered Water+1xPlastic Bottle",
+        "quantity": "3.5s +\u26a12.86kMF/s",
+        "output": "1xWater Bottle"
+      },
+      {
+        "material": "8xWater+1xPlastic Bottle",
+        "quantity": "3.5s +\u26a12.86kMF/s",
+        "output": "1xCheap Water Bottle"
+      },
+      {
+        "material": "8xResidue+1xPlastic Bottle",
+        "quantity": "3.5s +\u26a12.86kMF/s",
+        "output": "1xResidue Bottle"
+      },
+      {
+        "material": "8xRefined Diesel+1xPlastic Bottle",
+        "quantity": "3.5s +\u26a12.86kMF/s",
+        "output": "1xRefined Diesel Bottle"
+      },
+      {
+        "material": "8xCrude Oil+1xPlastic Bottle",
+        "quantity": "3.5s +\u26a12.86kMF/s",
+        "output": "1xOil Bottle"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Cat_assembler",
+    "name": "Cat assembler",
+    "input_energy": "\u26a1Power Input 0",
+    "capacity": "\u26a1Power Capacity 0",
+    "pollution": "?",
+    "size": "5x5",
+    "cost": "$16,180,339",
+    "recipe": [
+      {
+        "material": "31xGasoline+4xElectric Motor+\n15xSulfur",
+        "quantity": "92s +\u26a1Maxwell/s",
+        "output": "1xCat"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Chemical_Reactor",
+    "name": "Chemical Reactor",
+    "input_energy": "\u26a1Depends on the recipe",
+    "capacity": "\u26a15MMF",
+    "pollution": "1.62%/h",
+    "size": "10x10",
+    "cost": "$750,000",
+    "recipe": [
+      {
+        "material": "10xNaphta+16xHeavy Oil",
+        "quantity": "6s +\u26a1500kMF/s",
+        "output": "4xResidue+\n8xRubber"
+      },
+      {
+        "material": "20xSulfur Trioxide+20xWater",
+        "quantity": "6s +\u26a1500kMF/s",
+        "output": "15xSulfuric Acid"
+      },
+      {
+        "material": "20xSulfur Trioxide+20xWater+\n2xSulfuric Acid",
+        "quantity": "3s +\u26a11MMF/s",
+        "output": "15xSulfuric Acid"
+      },
+      {
+        "material": "20xSulfur Trioxide+20xDistilled Water+\n2xSulfuric Acid",
+        "quantity": "3s +\u26a11MMF/s",
+        "output": "17xSulfuric Acid"
+      },
+      {
+        "material": "9xGasoline+1xEthanol",
+        "quantity": "6s +\u26a1500kMF/s",
+        "output": "10xGasolinee10"
+      },
+      {
+        "material": "9xGasoline+1xTetraethyllead",
+        "quantity": "6s +\u26a1500kMF/s",
+        "output": "10xLeaded Gasoline"
+      },
+      {
+        "material": "5xMicrochip Scrap+5xSulfuric Acid",
+        "quantity": "6s +\u26a1500kMF/s",
+        "output": "1xGold Ingot"
+      },
+      {
+        "material": "6xLithium Brine+0.9xSulfuric Acid",
+        "quantity": "2s +\u26a11.5MMF/s",
+        "output": "4xDirty Lithium Sulfate"
+      },
+      {
+        "material": "10xWater+8xLithium Sulfate+\n4xSodium Carbonate",
+        "quantity": "4s +\u26a1750kMF/s",
+        "output": "4xLithium Carbonate"
+      },
+      {
+        "material": "1.4xSulfuric Acid+4xLithium Ore+\n2xSodium Carbonate",
+        "quantity": "2s +\u26a11.5MMF/s",
+        "output": "4xLithium Sulfate"
+      },
+      {
+        "material": "2xSulfuric Acid+4xTable Salt",
+        "quantity": "4s +\u26a11.5MMF/s",
+        "output": "4xHydrochloric Acid+\n2xResidue"
+      },
+      {
+        "material": "2xSulfuric Acid+20xRaw Zinc",
+        "quantity": "5s +\u26a1600kMF/s",
+        "output": "15xZinc Sulfate+\n5xResidue"
+      },
+      {
+        "material": "20xChlorine+20xHydrogen+\n5xDistilled Water",
+        "quantity": "5s +\u26a1600kMF/s",
+        "output": "5xHydrochloric Acid"
+      },
+      {
+        "material": "20xRaw Iron+1xHydrochloric Acid",
+        "quantity": "5s +\u26a1600kMF/s",
+        "output": "20xTreated Raw Iron+\n4xResidue"
+      },
+      {
+        "material": "20xRaw Copper+1xHydrochloric Acid",
+        "quantity": "5s +\u26a1600kMF/s",
+        "output": "20xTreated Raw Copper+\n4xResidue"
+      },
+      {
+        "material": "5xZinc+20xSteel Ingot",
+        "quantity": "5s +\u26a1600kMF/s",
+        "output": "20xGalvanized Steel"
+      },
+      {
+        "material": "4xEthanol+1xZinc",
+        "quantity": "5s +\u26a1600kMF/s",
+        "output": "10xTetraethyllead"
+      },
+      {
+        "material": "20xHydrogen+4xPowdered Tungsten+\n3xBlack Dye",
+        "quantity": "6s +\u26a1500kMF/s",
+        "output": "2xPowdered Tungsten Carbide"
+      },
+      {
+        "material": "10xWater+8xSulfur+\n4xCoal",
+        "quantity": "6s +\u26a1500kMF/s",
+        "output": "4xGunpowder"
+      },
+      {
+        "material": "6xFiltered Water+2xTreated Rock",
+        "quantity": "4s +\u26a1750kMF/s",
+        "output": "1xSulfur"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Coal_Drill",
+    "name": "Coal Drill",
+    "input_energy": "\u26a1120MF/s",
+    "capacity": "\u26a1900MF",
+    "pollution": "0.864%/hr",
+    "size": "6x2",
+    "cost": "$50",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Coal_Generator",
+    "name": "Coal Generator",
+    "input_energy": "Pollution0.27%/h",
+    "capacity": "\u26a150kMF",
+    "pollution": "0.27%/h",
+    "size": "4x4",
+    "cost": "$160",
+    "recipe": [
+      {
+        "material": "0.5xCoal+0.5xWater",
+        "quantity": "2s +\u26a1-4.5kMF/s",
+        "output": "0.3xSteam"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Coal_Liquefaction_Plant",
+    "name": "Coal Liquefaction Plant",
+    "input_energy": "\u26a11MMF/s",
+    "capacity": "\u26a125MMF",
+    "pollution": "6.48%/h",
+    "size": "20x20",
+    "cost": "$750,000",
+    "recipe": [
+      {
+        "material": "40xCoal+10xCrude Oil+\n200xSteam",
+        "quantity": "Variable/s +\u26a11MMF/s",
+        "output": "10xResidue+\n40xHeavy Oil+\n30xLight Oil"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Coal_Power_Plant",
+    "name": "Coal Power Plant",
+    "input_energy": "\u26a1Varies",
+    "capacity": "\u26a1100MMF",
+    "pollution": "0%/h",
+    "size": "100x42",
+    "cost": "$10,001,984",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Compact_Coal_Power_Plant",
+    "name": "Compact Coal Power Plant",
+    "input_energy": "Output\u26a113.5kMF/s",
+    "capacity": "\u26a150kMF",
+    "pollution": "0.821%/h",
+    "size": "4x3",
+    "cost": "$550",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Condenser",
+    "name": "Condenser",
+    "input_energy": "\u26a121kMF/s",
+    "capacity": "\u26a11MMF",
+    "pollution": "0%/h",
+    "size": "6x14",
+    "cost": "$75,000",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Cooling_Tower",
+    "name": "Cooling Tower",
+    "input_energy": "Capacity\u26a10MF/s",
+    "capacity": "\u26a10MF/s",
+    "pollution": "0%/h",
+    "size": "25x25",
+    "cost": "$2,500,000",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Copper_Drill",
+    "name": "Copper Drill",
+    "input_energy": "\u26a1360MF/s",
+    "capacity": "\u26a11.5kMF",
+    "pollution": "0.108%/h",
+    "size": "6x2",
+    "cost": "$190",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Craft_Assembler",
+    "name": "Craft Assembler",
+    "input_energy": "\u26a13.488kMF/s",
+    "capacity": "",
+    "pollution": "0%/h",
+    "size": "8x4",
+    "cost": "$1,000",
+    "recipe": [
+      {
+        "material": "12xPlanks+20xNails",
+        "quantity": "17.2s +\u26a13.488kMF/s",
+        "output": "1xChair"
+      },
+      {
+        "material": "1xTire Rim+4xRubber",
+        "quantity": "17.2s +\u26a13.488kMF/s",
+        "output": "1xTire"
+      },
+      {
+        "material": "2xAluminium Ingot+4xSteel Ingot",
+        "quantity": "17.2s +\u26a13.488kMF/s",
+        "output": "1xTire Rim"
+      },
+      {
+        "material": "20xRubber+40xCopper Wire",
+        "quantity": "17.2s +\u26a13.488kMF/s",
+        "output": "40xInsulated Wire"
+      },
+      {
+        "material": "2xSteel Rod+4xGear",
+        "quantity": "17.2s +\u26a13.488kMF/s",
+        "output": "1xCrankshaft"
+      },
+      {
+        "material": "2xPlastic Casing+1xCrankshaft",
+        "quantity": "17.2s +\u26a13.488kMF/s",
+        "output": "1xGearbox"
+      },
+      {
+        "material": "6xBlack Dye+3xPlanks",
+        "quantity": "17.2s +\u26a13.488kMF/s",
+        "output": "1xToy"
+      },
+      {
+        "material": "9xBlack Dye+6xPaper",
+        "quantity": "17.2s +\u26a13.488kMF/s",
+        "output": "2xPresent Box"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Crude_Oil_Separator",
+    "name": "Crude Oil Separator",
+    "input_energy": "\u26a12.2kMF/s",
+    "capacity": "\u26a150kMF",
+    "pollution": "0.432%/h",
+    "size": "10x8",
+    "cost": "$1,500",
+    "recipe": [
+      {
+        "material": "1.5xHot Crude Oil",
+        "quantity": "1s +\u26a12.2kMF/s",
+        "output": "0.675xCrude Diesel+\n0.3xGasoline+\n0.3xResidue"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Diesel_Generator",
+    "name": "Diesel Generator",
+    "input_energy": "Pollution0.648%/h",
+    "capacity": "\u26a1250kMF",
+    "pollution": "0.648%/h",
+    "size": "8x4",
+    "cost": "$4,500",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Diesel_Refinery",
+    "name": "Diesel Refinery",
+    "input_energy": "\u26a11kMF/s (intended) 0MF/s (bugged)",
+    "capacity": "\u26a150kMF",
+    "pollution": "0.216%/h",
+    "size": "12x10",
+    "cost": "$1,000",
+    "recipe": [
+      {
+        "material": "0.45xCrude Diesel",
+        "quantity": "1s +\u26a11kMF/s",
+        "output": "0.41xPoor Quality Diesel+\n0.04xResidue"
+      },
+      {
+        "material": "0.41xPoor Quality Diesel",
+        "quantity": "1s +\u26a11kMF/s",
+        "output": "0.37xDiesel+\n0.04xResidue"
+      },
+      {
+        "material": "0.37xDiesel",
+        "quantity": "1s +\u26a11kMF/s",
+        "output": "0.34xRefined Diesel+\n0.03xResidue"
+      },
+      {
+        "material": "0.34xRefined Diesel",
+        "quantity": "1s +\u26a11kMF/s",
+        "output": "0.31xGasoline+\n0.03xResidue"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Electric_Furnace",
+    "name": "Electric Furnace",
+    "input_energy": "\u26a1120MF/s-400MF/s",
+    "capacity": "\u26a115kMF",
+    "pollution": "0.158%/h",
+    "size": "6x6",
+    "cost": "$190",
+    "recipe": [
+      {
+        "material": "1xRaw Copper",
+        "quantity": "3s +\u26a1400MF/s",
+        "output": "1xLiquid Copper"
+      },
+      {
+        "material": "1xRaw Iron",
+        "quantity": "5s +\u26a1240MF/s",
+        "output": "1xLiquid Iron"
+      },
+      {
+        "material": "1xIron Ingot",
+        "quantity": "10s +\u26a1120MF/s",
+        "output": "1.8xLiquid Iron"
+      },
+      {
+        "material": "1.8xCopper Ingot",
+        "quantity": "6s +\u26a1200MF/s",
+        "output": "1.8xLiquid Copper"
+      },
+      {
+        "material": "2.67xCopper Mix",
+        "quantity": "3s +\u26a1400MF/s",
+        "output": "5.2xLiquid Copper"
+      },
+      {
+        "material": "3.2xIron Mix",
+        "quantity": "5s +\u26a1240MF/s",
+        "output": "7xLiquid Iron"
+      },
+      {
+        "material": "5xSulfur",
+        "quantity": "5s +\u26a1240MF/s",
+        "output": "10xLiquid Sulfur"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Electric_Water_Heater",
+    "name": "Electric Water Heater",
+    "input_energy": "\u26a1200kMF/s-1.2MMF/s",
+    "capacity": "\u26a15MMF (MV) 10MMF (HV)",
+    "pollution": "0%/h",
+    "size": "8x5",
+    "cost": "$100,020",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Electrolysis_Plant",
+    "name": "Electrolysis Plant",
+    "input_energy": "\u26a1750kMF/s",
+    "capacity": "\u26a150MMF",
+    "pollution": "0%/h",
+    "size": "10x6",
+    "cost": "$650,000",
+    "recipe": [
+      {
+        "material": "8xWater",
+        "quantity": "30s +\u26a1750kMF/s",
+        "output": "30xOxygen+\n60xHydrogen"
+      },
+      {
+        "material": "8xConcentrated Salt Solution",
+        "quantity": "30s +\u26a1750kMF/s",
+        "output": "30xChlorine+\n6xSodium Hydroxide Solution"
+      },
+      {
+        "material": "30xZinc Sulfate",
+        "quantity": "30s +\u26a1750kMF/s",
+        "output": "20xZinc+\n10xResidue"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Exhaust_Stack",
+    "name": "Exhaust Stack",
+    "input_energy": "",
+    "capacity": "",
+    "pollution": "0-691.2%/h",
+    "size": "20x20",
+    "cost": "$220,000",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Fancy_Coal_Drill",
+    "name": "Fancy Coal Drill",
+    "input_energy": "\u26a1120MF/s",
+    "capacity": "\u26a1480MF",
+    "pollution": "0.015%/h",
+    "size": "8x2",
+    "cost": "$50",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Filtration_Plant",
+    "name": "Filtration Plant",
+    "input_energy": "\u26a17.5kMF/s",
+    "capacity": "",
+    "pollution": "0%/h",
+    "size": "8x8",
+    "cost": "$20,000",
+    "recipe": [
+      {
+        "material": "4xWater",
+        "quantity": "2s +\u26a17.5kMF/s",
+        "output": "3xFiltered Water"
+      },
+      {
+        "material": "4xFiltered Water",
+        "quantity": "2s +\u26a17.5kMF/s",
+        "output": "3xWater"
+      },
+      {
+        "material": "4xGasoline",
+        "quantity": "2s +\u26a17.5kMF/s",
+        "output": "2.4xCrude Diesel"
+      },
+      {
+        "material": "4xRefined Diesel",
+        "quantity": "2s +\u26a17.5kMF/s",
+        "output": "2.4xMachine Oil"
+      },
+      {
+        "material": "4xResidue",
+        "quantity": "2s +\u26a17.5kMF/s",
+        "output": "4.4xResidue"
+      },
+      {
+        "material": "4xHeavy Oil",
+        "quantity": "2s +\u26a17.5kMF/s",
+        "output": "3xCrude Oil"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Firebox",
+    "name": "Firebox",
+    "input_energy": "Capacity\u26a10MF",
+    "capacity": "\u26a10MF",
+    "pollution": "1.08%/h",
+    "size": "6x4",
+    "cost": "$550",
+    "recipe": [
+      {
+        "material": "1xCoal+6xWater",
+        "quantity": "1s +\u26a10MF/s",
+        "output": "6xWater"
+      },
+      {
+        "material": "1xCoal+6xFiltered Water",
+        "quantity": "1s +\u26a10MF/s",
+        "output": "6xFiltered Water"
+      },
+      {
+        "material": "1xCoal+6xDistilled Water",
+        "quantity": "1s +\u26a10MF/s",
+        "output": "6xDistilled Water"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Gas_Burner",
+    "name": "Gas Burner",
+    "input_energy": "Capacity\u26a10MF",
+    "capacity": "\u26a10MF",
+    "pollution": "0%/h (Hydrogen)\n0.173%/h (Refined Gas)",
+    "size": "10x8",
+    "cost": "$100,000",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Gas_Refinery",
+    "name": "Gas Refinery",
+    "input_energy": "\u26a160kMF/s",
+    "capacity": "",
+    "pollution": "0.216%/h",
+    "size": "7x6",
+    "cost": "$175,000",
+    "recipe": [
+      {
+        "material": "90xWater Free Gas",
+        "quantity": "1s +\u26a160kMF/s",
+        "output": "60xRefined Gas+\n3xResidue"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Gasoline_Generator",
+    "name": "Gasoline Generator",
+    "input_energy": "Pollution0.648%/h",
+    "capacity": "\u26a1700kMF",
+    "pollution": "0.648%/h",
+    "size": "2x2",
+    "cost": "$900",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Gold_Acid_Refinery",
+    "name": "Gold Acid Refinery",
+    "input_energy": "\u26a1100kMF/s",
+    "capacity": "\u26a1510kMF",
+    "pollution": "0.216%/h",
+    "size": "18x10",
+    "cost": "$1,000,000",
+    "recipe": [
+      {
+        "material": "2xAcetic Acid+6xWater+\n1xRich Soil",
+        "quantity": "5s +\u26a1100kMF/s",
+        "output": "8xResidue+\n1x10 Karat Gold"
+      },
+      {
+        "material": "2xAcetic Acid+6xWater+\n1x12 Karat Gold",
+        "quantity": "5s +\u26a1100kMF/s",
+        "output": "8xResidue+\n1x18 Karat Gold"
+      },
+      {
+        "material": "4xSulfuric Acid+4xWater+\n1xRich Soil",
+        "quantity": "5s +\u26a1100kMF/s",
+        "output": "8xResidue+\n1x18 Karat Gold"
+      },
+      {
+        "material": "1xSulfuric Acid+5xWater+\n4xShallow Earth Fragment",
+        "quantity": "5s +\u26a1100kMF/s",
+        "output": "8xResidue+\n1xBauxite Residue"
+      },
+      {
+        "material": "2xAcetic Acid+5xWater+\n2xMedium Earth Fragment",
+        "quantity": "5s +\u26a1100kMF/s",
+        "output": "4xResidue+\n4xRaw Zinc"
+      },
+      {
+        "material": "2xHydrochloric Acid+5xWater+\n5xMedium Earth Fragment",
+        "quantity": "5s +\u26a1100kMF/s",
+        "output": "10xLithium Brine+\n5xRich Soil"
+      },
+      {
+        "material": "2xSulfuric Acid+5xWater+\n3xMedium Earth Fragment",
+        "quantity": "5s +\u26a1100kMF/s",
+        "output": "6xResidue+\n10xCoal"
+      },
+      {
+        "material": "2xAcetic Acid+5xWater+\n5xDeep Earth Fragment",
+        "quantity": "5s +\u26a1100kMF/s",
+        "output": "5xResidue+\n5xCoal"
+      },
+      {
+        "material": "2xHydrochloric Acid+5xWater+\n5xDeep Earth Fragment",
+        "quantity": "5s +\u26a1100kMF/s",
+        "output": "5xResidue+\n10xCoal"
+      },
+      {
+        "material": "2xSulfuric Acid+5xWater+\n5xDeep Earth Fragment",
+        "quantity": "5s +\u26a1100kMF/s",
+        "output": "5xResidue+\n20xCoal"
+      },
+      {
+        "material": "1xAcetic Acid+5xWater+\n5xTreated Rock",
+        "quantity": "5s +\u26a1100kMF/s",
+        "output": "5xResidue+\n5x8 Karat Gold"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Gold_Drill",
+    "name": "Gold Drill",
+    "input_energy": "\u26a1900kMF/s",
+    "capacity": "\u26a11MMF",
+    "pollution": "0.2%/h",
+    "size": "8x3",
+    "cost": "$25,000",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Hand_Crank_MK2",
+    "name": "Hand Crank MK2",
+    "input_energy": "Pollution0%/h",
+    "capacity": "\u26a11MMF",
+    "pollution": "0%/h",
+    "size": "8x8",
+    "cost": "$200,000",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Hand_Pump",
+    "name": "Hand Pump",
+    "input_energy": "Capacity\u26a10MF",
+    "capacity": "\u26a10MF",
+    "pollution": "0%/h",
+    "size": "2x2",
+    "cost": "$250",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Hot_Water_Pump",
+    "name": "Hot Water Pump",
+    "input_energy": "\u26a160MF/s",
+    "capacity": "\u26a16kMF",
+    "pollution": "0%/h",
+    "size": "4x4",
+    "cost": "$\u221e",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Industrial_Diesel_Refinery",
+    "name": "Industrial Diesel Refinery",
+    "input_energy": "\u26a1750kMF/s",
+    "capacity": "\u26a11.5MMF",
+    "pollution": "0.32%/h",
+    "size": "8x5",
+    "cost": "$150,000",
+    "recipe": [
+      {
+        "material": "2xCrude Diesel+0.2xMachine Oil",
+        "quantity": "1s +\u26a1750kMF/s",
+        "output": "1.8xPoor Quality Diesel+\n0.2xResidue"
+      },
+      {
+        "material": "2xPoor Quality Diesel+0.2xMachine Oil",
+        "quantity": "1s +\u26a1750kMF/s",
+        "output": "1.8xDiesel+\n0.2xResidue"
+      },
+      {
+        "material": "2xDiesel+0.2xMachine Oil",
+        "quantity": "1s +\u26a1750kMF/s",
+        "output": "1.8xRefined Diesel+\n0.2xResidue"
+      },
+      {
+        "material": "2xRefined Diesel+0.2xMachine Oil",
+        "quantity": "1s +\u26a1750kMF/s",
+        "output": "1.8xGasoline+\n0.2xResidue"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Industrial_Drill",
+    "name": "Industrial Drill",
+    "input_energy": "Capacity\u26a10MF",
+    "capacity": "\u26a10MF",
+    "pollution": "0%/h",
+    "size": "10x10",
+    "cost": "$100,000",
+    "recipe": [
+      {
+        "material": "SteamTemp",
+        "quantity": "Condition",
+        "output": "Output"
+      },
+      {
+        "material": "Steam- 100C",
+        "quantity": "8 Seconds",
+        "output": "Raw Copperx10,Raw Ironx10,Bauxite Residuex0.5"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Industrial_Electric_Furnace",
+    "name": "Industrial Electric Furnace",
+    "input_energy": "\u26a1200kMF/s",
+    "capacity": "\u26a11.1MMF",
+    "pollution": "0.158%/h",
+    "size": "12x12",
+    "cost": "$1,000,000",
+    "recipe": [
+      {
+        "material": "1x8 Karat Gold",
+        "quantity": "5s +\u26a1200kMF/s",
+        "output": "0.08xLiquid Gold"
+      },
+      {
+        "material": "1x10 Karat Gold",
+        "quantity": "5s +\u26a1200kMF/s",
+        "output": "0.1xLiquid Gold"
+      },
+      {
+        "material": "1x12 Karat Gold",
+        "quantity": "5s +\u26a1200kMF/s",
+        "output": "0.2xLiquid Gold"
+      },
+      {
+        "material": "1x18 Karat Gold",
+        "quantity": "5s +\u26a1200kMF/s",
+        "output": "0.4xLiquid Gold"
+      },
+      {
+        "material": "1x24 Karat Gold",
+        "quantity": "5s +\u26a1200kMF/s",
+        "output": "1xLiquid Gold"
+      },
+      {
+        "material": "1xAlumina Dust",
+        "quantity": "5s +\u26a1200kMF/s",
+        "output": "1xLiquid Aluminium"
+      },
+      {
+        "material": "2xSand",
+        "quantity": "5s +\u26a1200kMF/s",
+        "output": "1xLiquid Glass"
+      },
+      {
+        "material": "1xTreated Raw Iron",
+        "quantity": "5s +\u26a1200kMF/s",
+        "output": "5xLiquid Iron"
+      },
+      {
+        "material": "1xTreated Raw Copper",
+        "quantity": "5s +\u26a1200kMF/s",
+        "output": "5xLiquid Copper"
+      },
+      {
+        "material": "5xRaw Lead",
+        "quantity": "5s +\u26a1200kMF/s",
+        "output": "5xLiquid Lead"
+      },
+      {
+        "material": "10xSulfur",
+        "quantity": "5s +\u26a1200kMF/s",
+        "output": "20xLiquid Sulfur"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Industrial_Firebox",
+    "name": "Industrial Firebox",
+    "input_energy": "Capacity\u26a10MF",
+    "capacity": "\u26a10MF",
+    "pollution": "1.8%/h",
+    "size": "9x4",
+    "cost": "$250,000",
+    "recipe": [
+      {
+        "material": "Input",
+        "quantity": "Conditions(time is based on fuel used)",
+        "output": "Output"
+      },
+      {
+        "material": "Fuel of any kind",
+        "quantity": "4.5xLiquid Sulfur",
+        "output": "900k Energy"
+      },
+      {
+        "material": "12xWater",
+        "quantity": "300k Energy",
+        "output": "12xWater(300C)"
+      },
+      {
+        "material": "WATER",
+        "quantity": "1xOak Log",
+        "output": "+16k Energy + 1sNote: \nThe player must run water\nthrough to cool it down"
+      },
+      {
+        "material": "FuelWait Time10xCoal10s0.5xCoke Fuel0.5s33.34xPlanks33.34s18.75xOak Log18.75s",
+        "quantity": "Fuel",
+        "output": "Wait Time"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Industrial_Oil_Separator",
+    "name": "Industrial Oil Separator",
+    "input_energy": "\u26a1100kMF/s",
+    "capacity": "\u26a12.5MMF",
+    "pollution": "0.32%/h",
+    "size": "8x8",
+    "cost": "$150,000",
+    "recipe": [
+      {
+        "material": "4xHeavy Oil+20xSteam",
+        "quantity": "5s +\u26a1100kMF/s",
+        "output": "0.5xResidue+\n2xMachine Oil+\n1xLight Oil"
+      },
+      {
+        "material": "4xLight Oil+20xSteam",
+        "quantity": "5s +\u26a1100kMF/s",
+        "output": "1.5xResidue+\n2xDiesel+\n0.5xCrude Oil"
+      },
+      {
+        "material": "40xFracking Oil+20xSteam",
+        "quantity": "5s +\u26a1100kMF/s",
+        "output": "10xResidue+\n30xCrude Oil"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Industrial_Press",
+    "name": "Industrial Press",
+    "input_energy": "\u26a17.5MF/s-12.5kMF/s",
+    "capacity": "\u26a1250kMF",
+    "pollution": "0%/h",
+    "size": "4x2",
+    "cost": "$150,000",
+    "recipe": [
+      {
+        "material": "1xCopper Ingot",
+        "quantity": "3s +\u26a11.34kMF/s",
+        "output": "1xCopper Plate"
+      },
+      {
+        "material": "1xIron Ingot",
+        "quantity": "4s +\u26a11kMF/s",
+        "output": "1xIron Plate"
+      },
+      {
+        "material": "1xSteel Ingot",
+        "quantity": "4s +\u26a112.5kMF/s",
+        "output": "1xSteel Plate"
+      },
+      {
+        "material": "1xPlanks",
+        "quantity": "3.5s +\u26a11.14kMF/s",
+        "output": "0.25xPlank^2"
+      },
+      {
+        "material": "1xIron Plate",
+        "quantity": "4s +\u26a175MF/s",
+        "output": "0.25xIron Plate^2"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Industrial_Roller",
+    "name": "Industrial Roller",
+    "input_energy": "\u26a1750MF/s-11.25kMF/s",
+    "capacity": "\u26a1250kMF",
+    "pollution": "0%/h",
+    "size": "4x2",
+    "cost": "$150,000",
+    "recipe": [
+      {
+        "material": "2xCopper Plate",
+        "quantity": "6s +\u26a1750MF/s",
+        "output": "12xCopper Wire"
+      },
+      {
+        "material": "2xIron Plate",
+        "quantity": "6s +\u26a11.125kMF/s",
+        "output": "4xIron Coil"
+      },
+      {
+        "material": "2xSteel Ingot",
+        "quantity": "6s +\u26a19375MF/s",
+        "output": "2xSteel Rod"
+      },
+      {
+        "material": "2xSteel Plate",
+        "quantity": "6s +\u26a19.375kMF/s",
+        "output": "2xGear"
+      },
+      {
+        "material": "2xIron Ingot",
+        "quantity": "6s +\u26a11.125kMF/s",
+        "output": "16xNails"
+      },
+      {
+        "material": "2xFerroaluminium Alloy Ingot",
+        "quantity": "6s +\u26a11.125kMF/s",
+        "output": "1xFerroaluminium Magnet"
+      },
+      {
+        "material": "2xGold Ingot",
+        "quantity": "6s +\u26a111.25kMF/s",
+        "output": "20xGold Wire"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Industrial_Sawmill",
+    "name": "Industrial Sawmill",
+    "input_energy": "Capacity\u26a10MF",
+    "capacity": "\u26a10MF",
+    "pollution": "0%/h",
+    "size": "14x8",
+    "cost": "$75,000",
+    "recipe": [
+      {
+        "material": "8xOak Log",
+        "quantity": "8s +\u26a10MF/s",
+        "output": "16xCut Oak Log"
+      },
+      {
+        "material": "8xCut Oak Log",
+        "quantity": "8s +\u26a10MF/s",
+        "output": "8xChunk Plank"
+      },
+      {
+        "material": "8xChunk Plank",
+        "quantity": "8s +\u26a10MF/s",
+        "output": "24xPlanks"
+      },
+      {
+        "material": "3xIron Ingot",
+        "quantity": "8s +\u26a10MF/s",
+        "output": "12xIron Plate"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Ingot_Molder",
+    "name": "Ingot Molder",
+    "input_energy": "\u26a1150MF/s",
+    "capacity": "\u26a125kMF",
+    "pollution": "0%/h",
+    "size": "4x2",
+    "cost": "$150",
+    "recipe": [
+      {
+        "material": "2xLiquid Copper",
+        "quantity": "2s +\u26a1150MF/s",
+        "output": "1xCopper Ingot"
+      },
+      {
+        "material": "2xLiquid Sulfur",
+        "quantity": "2s +\u26a1150MF/s",
+        "output": "1xSulfur"
+      },
+      {
+        "material": "2xLiquid Iron",
+        "quantity": "2s +\u26a1150MF/s",
+        "output": "1xIron Ingot"
+      },
+      {
+        "material": "2xLiquid Gold",
+        "quantity": "2s +\u26a1150MF/s",
+        "output": "1xGold Ingot"
+      },
+      {
+        "material": "2xMolten Ferroaluminium Alloy",
+        "quantity": "2s +\u26a1150MF/s",
+        "output": "1xFerroaluminium Alloy Ingot"
+      },
+      {
+        "material": "2xMolten Purple Gold",
+        "quantity": "2s +\u26a1150MF/s",
+        "output": "1xPurple Gold Ingot"
+      },
+      {
+        "material": "2xLiquid Aluminium",
+        "quantity": "2s +\u26a1150MF/s",
+        "output": "1xAluminium Ingot"
+      },
+      {
+        "material": "2xLiquid Glass",
+        "quantity": "2s +\u26a1150MF/s",
+        "output": "1xGlass"
+      },
+      {
+        "material": "4xLiquid Lead",
+        "quantity": "2s +\u26a1150MF/s",
+        "output": "2xLead Ingot"
+      },
+      {
+        "material": "4xLiquid Brass",
+        "quantity": "2s +\u26a1150MF/s",
+        "output": "2xBrass Ingot"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Iron_Drill",
+    "name": "Iron Drill",
+    "input_energy": "\u26a11.2kMF/s",
+    "capacity": "\u26a150kMF",
+    "pollution": "0.432%/h",
+    "size": "2x6",
+    "cost": "$350",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Large_Diesel_Engine",
+    "name": "Large Diesel Engine",
+    "input_energy": "Pollution0.648%/h (normal) 4.32%(Distilled Water)",
+    "capacity": "\u26a175MMF",
+    "pollution": "0.648%/h (normal) 4.32%(Distilled Water)",
+    "size": "7x4",
+    "cost": "$1,000,000",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Large_Pumpjack",
+    "name": "Large Pumpjack",
+    "input_energy": "\u26a115kMF/s-30kMF/s",
+    "capacity": "\u26a11MMF",
+    "pollution": "1.44%/h",
+    "size": "20x8",
+    "cost": "$120,000",
+    "recipe": [
+      {
+        "material": "1xHydrochloric Acid",
+        "quantity": "1s +\u26a115kMF/s",
+        "output": "2.5xCrude Oil"
+      },
+      {
+        "material": "1xSulfuric Acid",
+        "quantity": "1s +\u26a130kMF/s",
+        "output": "3xCrude Oil"
+      },
+      {
+        "material": "1xAcetic Acid",
+        "quantity": "1s +\u26a130kMF/s",
+        "output": "2xCrude Oil"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Lathe",
+    "name": "Lathe",
+    "input_energy": "\u26a1500kMF/s",
+    "capacity": "\u26a1130MMF",
+    "pollution": "0%/h",
+    "size": "17x8",
+    "cost": "$5,000,000",
+    "recipe": [
+      {
+        "material": "700xCopper Ingot",
+        "quantity": "60s +\u26a1500kMF/s",
+        "output": "1xCopper Drill Head"
+      },
+      {
+        "material": "700xCopper Ingot",
+        "quantity": "60s +\u26a1500kMF/s",
+        "output": "1xCopper Drill Head"
+      },
+      {
+        "material": "700xCopper Ingot",
+        "quantity": "60s +\u26a1500kMF/s",
+        "output": "1xCopper Drill Head"
+      },
+      {
+        "material": "2100xIron Ingot",
+        "quantity": "160s +\u26a1500kMF/s",
+        "output": "1xIron Drill Head"
+      },
+      {
+        "material": "3500xSteel Ingot",
+        "quantity": "200s +\u26a1500kMF/s",
+        "output": "Steel Drill Head"
+      },
+      {
+        "material": "1275xTungsten Carbide Plate",
+        "quantity": "240s +\u26a1500kMF/s",
+        "output": "1xTungsten Carbide Drill Head"
+      },
+      {
+        "material": "60xSteel Coil",
+        "quantity": "30s +\u26a1500kMF/s",
+        "output": "30xSteel Rod"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Liquid_Boiler",
+    "name": "Liquid Boiler",
+    "input_energy": "\u26a110kMF/s",
+    "capacity": "\u26a130kMF",
+    "pollution": "0.184%/h",
+    "size": "6x4",
+    "cost": "$900",
+    "recipe": [
+      {
+        "material": "0.75xCrude Oil",
+        "quantity": "1s +\u26a110kMF/s",
+        "output": "0.75xHot Crude Oil"
+      },
+      {
+        "material": "0.6xWater",
+        "quantity": "1s +\u26a110kMF/s",
+        "output": "0.6xWater"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Lithium_Brine_Extractor",
+    "name": "Lithium Brine Extractor",
+    "input_energy": "\u26a1100kMF/s",
+    "capacity": "\u26a12.5MMF",
+    "pollution": "0%/h",
+    "size": "18x18",
+    "cost": "$100,000",
+    "recipe": [
+      {
+        "material": "300xWater",
+        "quantity": "120s +\u26a1100kMF/s",
+        "output": "120xLithium Brine+\n10xResidue"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Lithium_Ore_Drill",
+    "name": "Lithium Ore Drill",
+    "input_energy": "\u26a11MMF/s",
+    "capacity": "\u26a110MMF",
+    "pollution": "",
+    "size": "10x4",
+    "cost": "$250,000",
+    "recipe": [
+      {
+        "material": "2xMachine Oil",
+        "quantity": "10s +\u26a11MMF/s",
+        "output": "10xLithium Ore"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/LNG_Plant",
+    "name": "LNG Plant",
+    "input_energy": "\u26a11.134MMF/s-1.869MMF/s",
+    "capacity": "\u26a12.5MMF",
+    "pollution": "0%/h",
+    "size": "11x7",
+    "cost": "$250,000",
+    "recipe": [
+      {
+        "material": "Machine",
+        "quantity": "NaturalGasWell",
+        "output": "Condenser"
+      },
+      {
+        "material": "Ratios",
+        "quantity": "12",
+        "output": "6"
+      },
+      {
+        "material": "120xRefined Gas",
+        "quantity": "1s +\u26a11.9MMF/s",
+        "output": "7.2xLng"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Logic_Assembler",
+    "name": "Logic Assembler",
+    "input_energy": "\u26a13MMF/s",
+    "capacity": "\u26a125MMF",
+    "pollution": "0%/h",
+    "size": "22x12",
+    "cost": "$25,000,000",
+    "recipe": [
+      {
+        "material": "Material",
+        "quantity": "Conditions",
+        "output": "Output"
+      },
+      {
+        "material": "3xLogic Plate+ 12xCopper wire+ 3xSemiconductor+ 6xGold Wire",
+        "quantity": "\u26a13MMF/s (+2MMF)",
+        "output": "2xMicrochip"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Template:Machine2",
+    "name": "Machine2",
+    "input_energy": "\u26a13kMF/s",
+    "capacity": "\u26a14kMF",
+    "pollution": "0.0288%/h",
+    "size": "8x2",
+    "cost": "$1200",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Template:Machine2/doc",
+    "name": "Machine2/doc",
+    "input_energy": "\u26a13kMF/s",
+    "capacity": "\u26a14kMF",
+    "pollution": "0.0288%/h",
+    "size": "8x2",
+    "cost": "$1200",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Machines_%26_Models",
+    "name": "Machines & Models",
+    "input_energy": "",
+    "capacity": "",
+    "pollution": "",
+    "size": "",
+    "cost": "",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Industrialist_Wiki:Manual_of_Style",
+    "name": "Industrialist Wiki:Manual of Style",
+    "input_energy": "\u26a110MMF/s",
+    "capacity": "\u26a1150MMF/s",
+    "pollution": "0.124%/hr",
+    "size": "2x2",
+    "cost": "$100K",
+    "recipe": [
+      {
+        "material": "1xParaxylene+4xAcetic Acid",
+        "quantity": "4s +\u26a160kMF/s",
+        "output": "2xPta"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Mineshaft_Drill",
+    "name": "Mineshaft Drill",
+    "input_energy": "\u26a13.1MMF/s",
+    "capacity": "\u26a150MMF",
+    "pollution": "0.02%/h",
+    "size": "14x14",
+    "cost": "$1,100,000",
+    "recipe": [
+      {
+        "material": "300m-2000m2200m-3000m3200m-4000m4200m-5000m5200m-6000m6200m-7000m7200m-8000mv\u2022t\u2022e300m-2000mDepthConditionsOutput300M\u26a13.1MMF+ 1sSand-3/sGravel-3/sSoil-3/sRich Soil-1/s900M\u26a13.1MMF+ 1sCoal-6/sGravel-9/sRaw Iron-5/sRaw Copper-5/s1200M\u26a13.1MMF+ 1sCoal-20/sGravel-6/sRaw Iron-10/sShallow Earth Fragment-3/s1500M\u26a13.1MMF+ 1sRaw Lead-1/sGravel-8/sRaw Iron-8/sShallow Earth Fragment-5/s1800M\u26a13.1MMF+ 1sRaw Lead-5/sRock-8/sMedium Earth Fragment-2/sShallow Earth Fragment-1/s2000M\u26a13.1MMF+ 1sRaw Lead-9.3/sMedium Earth Fragment-3.4/sRock-9.4/sv\u2022t\u2022e2200m-3000mDepthConditionsOutput2200M\u26a13.1MMF+ 1sRaw Iron-9.6/sShallow Earth Fragment-2.3/sRaw Lead-5.1/sMedium Earth Fragment-3.1/s2400M\u26a13.1MMF+ 1sMedium Earth Fragment-4.5/sRock-9.8/s2600M\u26a13.1MMF+ 1sMedium Earth Fragment-8.4/sRock-10.2/s2800M\u26a13.1MMF+ 1sGravel-1.8/sRaw Iron-10.4/sShallow Earth Fragment-2.5/sRaw Lead-2.9/s3000M\u26a13.1MMF+ 1sShallow Earth Fragment-1.5/sRaw Lead-1.9/sRock-6/sv\u2022t\u2022e3200m-4000mDepthConditionsOutput3200M\u26a13.1MMF+ 1sRock-5.1/sMedium Earth Fragment-4.6/sRaw Lead-3.1/sRaw Iron-6.5/s3400M\u26a13.1MMF+ 1sRaw Iron-8.3/sRaw Lead-8.6/sRock-7.8/s3600M\u26a13.1MMF+ 1sMedium Earth Fragment-6.3/sRaw Lead-6.4/sRock-6.2/s3800M\u26a13.1MMF+ 1sMedium Earth Fragment-6.4/sRock-9.6/sRaw Lead-3.5/sCoal-30.4/s4000M\u26a13.1MMF+ 1sTable Salt-58.5/sMedium Earth Fragment-3.7/sRock-5.9/sRaw Lead-9.6/sv\u2022t\u2022e4200m-5000mDepthConditionsOutput4200M\u26a13.1MMF+ 1sMedium Earth Fragment-6.3/sRock-5/sRaw Lead-4.8/sCoal-39.3/s4400M\u26a13.1MMF+ 1sRock-14.8/sCoal-40.2/s4600M\u26a13.1MMF+ 1sRaw Zinc-7.6/sBauxite Residue-1.6/sRock-7.8/s4800M\u26a13.1MMF+ 1sMedium Earth Fragment-7.8/sRaw Zinc-9.8/sBauxite Residue-1.2/sRock-2.6/s5000M\u26a13.1MMF+ 1sMedium Earth Fragment-10.9/sRaw Zinc-4.8/sBauxite Residue-1.2/sRock-5.2/sv\u2022t\u2022e5200m-6000mDepthConditionsOutput5200M\u26a13.1MMF+ 1sRaw Iron-21.6/sRock-7.6/sDeep Earth Fragment-1.4/sRaw Lead-4.8/s5400M\u26a13.1MMF+ 1sMedium Earth Fragment-9.5/sBauxite Residue-1/sRock-8.5/s5600M\u26a13.1MMF+ 1sRock-5.4/sRaw Lead-3.8/sRaw Copper-18.3/sBauxite Residue-0.9/s5800M\u26a13.1MMF+ 1sMedium Earth Fragment-10.9/sRaw Lead-15.8/s6000M\u26a13.1MMF+ 1sCoal-54/sRaw Lead-12.1/sRock-5.2/sv\u2022t\u2022e6200m-7000mDepthConditionsOutput6200M\u26a13.1MMF+ 1sRaw Copper-50.7/sDeep Earth Fragment-4.4/sBauxite Residue-1/sRock-6.6/s6400M\u26a13.1MMF+ 1sBauxite Residue-2.3/sDeep Earth Fragment-7.7/sRock-7.7/s6600M\u26a13.1MMF+ 1sRock-8.8/sDeep Earth Fragment-9/sBauxite Residue-1.9/s6800M\u26a13.1MMF+ 1sRaw Copper-80.8/sBauxite Residue-1.6/sDeep Earth Fragment-5.9/sRock-10.4/s7000M\u26a13.1MMF+ 1sRaw Lead-4.3/sDeep Earth Fragment-10.9/sRock-11.7sBauxite Residue-1.3/sv\u2022t\u2022e7200m-8000mDepthConditionsOutput7200M\u26a13.1MMF+ 1sRaw Lead-5.5/sBauxite Residue-1.1/sDeep Earth Fragment-8.6/sRock-10.8/s7400M\u26a13.1MMF+ 1sRaw Copper-43/sBauxite Residue-1.1/sDeep Earth Fragment-8.7/sRock-11.4/s7600M\u26a13.1MMF+ 1sDeep Earth Fragment-4.9/sBauxite Residue-1/sRock-9.8/s7800M\u26a13.1MMF+ 1sMedium Earth Fragment-6.7/sBauxite Residue-2.2/sDeep Earth Fragment-8.4/s8000M\u26a13.1MMF+ 1sBauxite Residue-2.1/sRock-10.7/sDeep Earth Fragment-11.7/s",
+        "quantity": "300m-2000m",
+        "output": "Depth"
+      },
+      {
+        "material": "Depth",
+        "quantity": "Conditions",
+        "output": "Output"
+      },
+      {
+        "material": "300M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Sand-3/sGravel-3/sSoil-3/sRich Soil-1/s"
+      },
+      {
+        "material": "900M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Coal-6/sGravel-9/sRaw Iron-5/sRaw Copper-5/s"
+      },
+      {
+        "material": "1200M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Coal-20/sGravel-6/sRaw Iron-10/sShallow Earth Fragment-3/s"
+      },
+      {
+        "material": "1500M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Raw Lead-1/sGravel-8/sRaw Iron-8/sShallow Earth Fragment-5/s"
+      },
+      {
+        "material": "1800M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Raw Lead-5/sRock-8/sMedium Earth Fragment-2/sShallow Earth Fragment-1/s"
+      },
+      {
+        "material": "2000M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Raw Lead-9.3/sMedium Earth Fragment-3.4/sRock-9.4/s"
+      },
+      {
+        "material": "Depth",
+        "quantity": "Conditions",
+        "output": "Output"
+      },
+      {
+        "material": "2200M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Raw Iron-9.6/sShallow Earth Fragment-2.3/sRaw Lead-5.1/sMedium Earth Fragment-3.1/s"
+      },
+      {
+        "material": "2400M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Medium Earth Fragment-4.5/sRock-9.8/s"
+      },
+      {
+        "material": "2600M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Medium Earth Fragment-8.4/sRock-10.2/s"
+      },
+      {
+        "material": "2800M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Gravel-1.8/sRaw Iron-10.4/sShallow Earth Fragment-2.5/sRaw Lead-2.9/s"
+      },
+      {
+        "material": "3000M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Shallow Earth Fragment-1.5/sRaw Lead-1.9/sRock-6/s"
+      },
+      {
+        "material": "Depth",
+        "quantity": "Conditions",
+        "output": "Output"
+      },
+      {
+        "material": "3200M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Rock-5.1/sMedium Earth Fragment-4.6/sRaw Lead-3.1/sRaw Iron-6.5/s"
+      },
+      {
+        "material": "3400M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Raw Iron-8.3/sRaw Lead-8.6/sRock-7.8/s"
+      },
+      {
+        "material": "3600M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Medium Earth Fragment-6.3/sRaw Lead-6.4/sRock-6.2/s"
+      },
+      {
+        "material": "3800M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Medium Earth Fragment-6.4/sRock-9.6/sRaw Lead-3.5/sCoal-30.4/s"
+      },
+      {
+        "material": "4000M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Table Salt-58.5/sMedium Earth Fragment-3.7/sRock-5.9/sRaw Lead-9.6/s"
+      },
+      {
+        "material": "Depth",
+        "quantity": "Conditions",
+        "output": "Output"
+      },
+      {
+        "material": "4200M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Medium Earth Fragment-6.3/sRock-5/sRaw Lead-4.8/sCoal-39.3/s"
+      },
+      {
+        "material": "4400M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Rock-14.8/sCoal-40.2/s"
+      },
+      {
+        "material": "4600M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Raw Zinc-7.6/sBauxite Residue-1.6/sRock-7.8/s"
+      },
+      {
+        "material": "4800M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Medium Earth Fragment-7.8/sRaw Zinc-9.8/sBauxite Residue-1.2/sRock-2.6/s"
+      },
+      {
+        "material": "5000M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Medium Earth Fragment-10.9/sRaw Zinc-4.8/sBauxite Residue-1.2/sRock-5.2/s"
+      },
+      {
+        "material": "Depth",
+        "quantity": "Conditions",
+        "output": "Output"
+      },
+      {
+        "material": "5200M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Raw Iron-21.6/sRock-7.6/sDeep Earth Fragment-1.4/sRaw Lead-4.8/s"
+      },
+      {
+        "material": "5400M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Medium Earth Fragment-9.5/sBauxite Residue-1/sRock-8.5/s"
+      },
+      {
+        "material": "5600M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Rock-5.4/sRaw Lead-3.8/sRaw Copper-18.3/sBauxite Residue-0.9/s"
+      },
+      {
+        "material": "5800M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Medium Earth Fragment-10.9/sRaw Lead-15.8/s"
+      },
+      {
+        "material": "6000M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Coal-54/sRaw Lead-12.1/sRock-5.2/s"
+      },
+      {
+        "material": "Depth",
+        "quantity": "Conditions",
+        "output": "Output"
+      },
+      {
+        "material": "6200M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Raw Copper-50.7/sDeep Earth Fragment-4.4/sBauxite Residue-1/sRock-6.6/s"
+      },
+      {
+        "material": "6400M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Bauxite Residue-2.3/sDeep Earth Fragment-7.7/sRock-7.7/s"
+      },
+      {
+        "material": "6600M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Rock-8.8/sDeep Earth Fragment-9/sBauxite Residue-1.9/s"
+      },
+      {
+        "material": "6800M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Raw Copper-80.8/sBauxite Residue-1.6/sDeep Earth Fragment-5.9/sRock-10.4/s"
+      },
+      {
+        "material": "7000M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Raw Lead-4.3/sDeep Earth Fragment-10.9/sRock-11.7sBauxite Residue-1.3/s"
+      },
+      {
+        "material": "Depth",
+        "quantity": "Conditions",
+        "output": "Output"
+      },
+      {
+        "material": "7200M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Raw Lead-5.5/sBauxite Residue-1.1/sDeep Earth Fragment-8.6/sRock-10.8/s"
+      },
+      {
+        "material": "7400M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Raw Copper-43/sBauxite Residue-1.1/sDeep Earth Fragment-8.7/sRock-11.4/s"
+      },
+      {
+        "material": "7600M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Deep Earth Fragment-4.9/sBauxite Residue-1/sRock-9.8/s"
+      },
+      {
+        "material": "7800M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Medium Earth Fragment-6.7/sBauxite Residue-2.2/sDeep Earth Fragment-8.4/s"
+      },
+      {
+        "material": "8000M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Bauxite Residue-2.1/sRock-10.7/sDeep Earth Fragment-11.7/s"
+      },
+      {
+        "material": "Depth",
+        "quantity": "Conditions",
+        "output": "Output"
+      },
+      {
+        "material": "300M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Sand-3/sGravel-3/sSoil-3/sRich Soil-1/s"
+      },
+      {
+        "material": "900M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Coal-6/sGravel-9/sRaw Iron-5/sRaw Copper-5/s"
+      },
+      {
+        "material": "1200M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Coal-20/sGravel-6/sRaw Iron-10/sShallow Earth Fragment-3/s"
+      },
+      {
+        "material": "1500M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Raw Lead-1/sGravel-8/sRaw Iron-8/sShallow Earth Fragment-5/s"
+      },
+      {
+        "material": "1800M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Raw Lead-5/sRock-8/sMedium Earth Fragment-2/sShallow Earth Fragment-1/s"
+      },
+      {
+        "material": "2000M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Raw Lead-9.3/sMedium Earth Fragment-3.4/sRock-9.4/s"
+      },
+      {
+        "material": "Depth",
+        "quantity": "Conditions",
+        "output": "Output"
+      },
+      {
+        "material": "2200M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Raw Iron-9.6/sShallow Earth Fragment-2.3/sRaw Lead-5.1/sMedium Earth Fragment-3.1/s"
+      },
+      {
+        "material": "2400M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Medium Earth Fragment-4.5/sRock-9.8/s"
+      },
+      {
+        "material": "2600M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Medium Earth Fragment-8.4/sRock-10.2/s"
+      },
+      {
+        "material": "2800M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Gravel-1.8/sRaw Iron-10.4/sShallow Earth Fragment-2.5/sRaw Lead-2.9/s"
+      },
+      {
+        "material": "3000M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Shallow Earth Fragment-1.5/sRaw Lead-1.9/sRock-6/s"
+      },
+      {
+        "material": "Depth",
+        "quantity": "Conditions",
+        "output": "Output"
+      },
+      {
+        "material": "3200M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Rock-5.1/sMedium Earth Fragment-4.6/sRaw Lead-3.1/sRaw Iron-6.5/s"
+      },
+      {
+        "material": "3400M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Raw Iron-8.3/sRaw Lead-8.6/sRock-7.8/s"
+      },
+      {
+        "material": "3600M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Medium Earth Fragment-6.3/sRaw Lead-6.4/sRock-6.2/s"
+      },
+      {
+        "material": "3800M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Medium Earth Fragment-6.4/sRock-9.6/sRaw Lead-3.5/sCoal-30.4/s"
+      },
+      {
+        "material": "4000M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Table Salt-58.5/sMedium Earth Fragment-3.7/sRock-5.9/sRaw Lead-9.6/s"
+      },
+      {
+        "material": "Depth",
+        "quantity": "Conditions",
+        "output": "Output"
+      },
+      {
+        "material": "4200M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Medium Earth Fragment-6.3/sRock-5/sRaw Lead-4.8/sCoal-39.3/s"
+      },
+      {
+        "material": "4400M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Rock-14.8/sCoal-40.2/s"
+      },
+      {
+        "material": "4600M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Raw Zinc-7.6/sBauxite Residue-1.6/sRock-7.8/s"
+      },
+      {
+        "material": "4800M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Medium Earth Fragment-7.8/sRaw Zinc-9.8/sBauxite Residue-1.2/sRock-2.6/s"
+      },
+      {
+        "material": "5000M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Medium Earth Fragment-10.9/sRaw Zinc-4.8/sBauxite Residue-1.2/sRock-5.2/s"
+      },
+      {
+        "material": "Depth",
+        "quantity": "Conditions",
+        "output": "Output"
+      },
+      {
+        "material": "5200M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Raw Iron-21.6/sRock-7.6/sDeep Earth Fragment-1.4/sRaw Lead-4.8/s"
+      },
+      {
+        "material": "5400M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Medium Earth Fragment-9.5/sBauxite Residue-1/sRock-8.5/s"
+      },
+      {
+        "material": "5600M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Rock-5.4/sRaw Lead-3.8/sRaw Copper-18.3/sBauxite Residue-0.9/s"
+      },
+      {
+        "material": "5800M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Medium Earth Fragment-10.9/sRaw Lead-15.8/s"
+      },
+      {
+        "material": "6000M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Coal-54/sRaw Lead-12.1/sRock-5.2/s"
+      },
+      {
+        "material": "Depth",
+        "quantity": "Conditions",
+        "output": "Output"
+      },
+      {
+        "material": "6200M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Raw Copper-50.7/sDeep Earth Fragment-4.4/sBauxite Residue-1/sRock-6.6/s"
+      },
+      {
+        "material": "6400M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Bauxite Residue-2.3/sDeep Earth Fragment-7.7/sRock-7.7/s"
+      },
+      {
+        "material": "6600M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Rock-8.8/sDeep Earth Fragment-9/sBauxite Residue-1.9/s"
+      },
+      {
+        "material": "6800M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Raw Copper-80.8/sBauxite Residue-1.6/sDeep Earth Fragment-5.9/sRock-10.4/s"
+      },
+      {
+        "material": "7000M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Raw Lead-4.3/sDeep Earth Fragment-10.9/sRock-11.7sBauxite Residue-1.3/s"
+      },
+      {
+        "material": "Depth",
+        "quantity": "Conditions",
+        "output": "Output"
+      },
+      {
+        "material": "7200M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Raw Lead-5.5/sBauxite Residue-1.1/sDeep Earth Fragment-8.6/sRock-10.8/s"
+      },
+      {
+        "material": "7400M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Raw Copper-43/sBauxite Residue-1.1/sDeep Earth Fragment-8.7/sRock-11.4/s"
+      },
+      {
+        "material": "7600M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Deep Earth Fragment-4.9/sBauxite Residue-1/sRock-9.8/s"
+      },
+      {
+        "material": "7800M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Medium Earth Fragment-6.7/sBauxite Residue-2.2/sDeep Earth Fragment-8.4/s"
+      },
+      {
+        "material": "8000M",
+        "quantity": "\u26a13.1MMF+ 1s",
+        "output": "Bauxite Residue-2.1/sRock-10.7/sDeep Earth Fragment-11.7/s"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Natural_Gas_Well",
+    "name": "Natural Gas Well",
+    "input_energy": "\u26a145kMF/s",
+    "capacity": "\u26a13MMF",
+    "pollution": "0.432%/h",
+    "size": "12x12",
+    "cost": "$60,000",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/OG_Oil_Rig",
+    "name": "OG Oil Rig",
+    "input_energy": "\u26a13kMF/s",
+    "capacity": "\u26a115kMF",
+    "pollution": "0.0216%/h",
+    "size": "8x2",
+    "cost": "$1200",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/OG_Research_Station",
+    "name": "OG Research Station",
+    "input_energy": "\u26a11.36kMF/s",
+    "capacity": "\u26a1250kMF",
+    "pollution": "0%/hr",
+    "size": "8x8",
+    "cost": "$75",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Oil_Fracking_Tower",
+    "name": "Oil Fracking Tower",
+    "input_energy": "\u26a162.5kMF/s",
+    "capacity": "\u26a11MMF",
+    "pollution": "0.0013%/h",
+    "size": "6x6",
+    "cost": "$500,000",
+    "recipe": [
+      {
+        "material": "16xSand+7.5xSulfuric Acid+\n40xWater+\n200xSteam",
+        "quantity": "8s +\u26a162.5kMF/s",
+        "output": "100xFracking Oil"
+      },
+      {
+        "material": "16xSand+16xAcetic Acid+\n40xWater+\n200xSteam",
+        "quantity": "8s +\u26a162.5kMF/s",
+        "output": "100xFracking Oil"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Oil_Rig",
+    "name": "Oil Rig",
+    "input_energy": "\u26a13kMF/s",
+    "capacity": "\u26a14kMF",
+    "pollution": "0.0288%/h",
+    "size": "8x2",
+    "cost": "$1,200",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Oxidation_Plant",
+    "name": "Oxidation Plant",
+    "input_energy": "\u26a1500kMF-1.67MMF/s",
+    "capacity": "\u26a125MMF",
+    "pollution": "0%/h",
+    "size": "8x6",
+    "cost": "$200,000",
+    "recipe": [
+      {
+        "material": "60xEthanol",
+        "quantity": "20s +\u26a1500kMF/s",
+        "output": "60xAcetic Acid"
+      },
+      {
+        "material": "24xEthylene",
+        "quantity": "20s +\u26a1500kMF/s",
+        "output": "18xMeg"
+      },
+      {
+        "material": "20xHydrogen Sulfide",
+        "quantity": "20s +\u26a1500kMF/s",
+        "output": "30xLiquid Sulfur"
+      },
+      {
+        "material": "40xSulfur Dioxide",
+        "quantity": "12s +\u26a1833kMF/s",
+        "output": "40xSulfur Trioxide"
+      },
+      {
+        "material": "60xEthanol+5xOxygen",
+        "quantity": "5s +\u26a11MMF/s",
+        "output": "60xAcetic Acid"
+      },
+      {
+        "material": "24xEthylene+5xOxygen",
+        "quantity": "5s +\u26a11MMF/s",
+        "output": "18xMeg"
+      },
+      {
+        "material": "20xHydrogen Sulfide+5xOxygen",
+        "quantity": "5s +\u26a11MMF/s",
+        "output": "30xLiquid Sulfur"
+      },
+      {
+        "material": "40xSulfur Dioxide+5xOxygen",
+        "quantity": "3s +\u26a11.67MMF/s",
+        "output": "40xSulfur Trioxide"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Paper_Mill",
+    "name": "Paper Mill",
+    "input_energy": "\u26a162.5kMF/s-125kMF/s",
+    "capacity": "\u26a11MMF",
+    "pollution": "0%/h",
+    "size": "12x6",
+    "cost": "$80,000",
+    "recipe": [
+      {
+        "material": "4xOak Log",
+        "quantity": "4s +\u26a162.5kMF/s",
+        "output": "8xPaper"
+      },
+      {
+        "material": "4xOak Log+2xChlorine",
+        "quantity": "2s +\u26a1125kMF/s",
+        "output": "16xPaper"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Plastic_Production_Facility",
+    "name": "Plastic Production Facility",
+    "input_energy": "\u26a180kMF/s",
+    "capacity": "\u26a12.5MMF",
+    "pollution": "0.432%/h",
+    "size": "15x8",
+    "cost": "$100,000",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Plastic_Refinery",
+    "name": "Plastic Refinery",
+    "input_energy": "\u26a160kMF/s",
+    "capacity": "\u26a12.5MMF",
+    "pollution": "0.216%/h",
+    "size": "14x10",
+    "cost": "$100,000",
+    "recipe": [
+      {
+        "material": "1xCrude Oil+4xWater",
+        "quantity": "4s +\u26a160kMF/s",
+        "output": "2xEthanol"
+      },
+      {
+        "material": "1xParaxylene+4xAcetic Acid",
+        "quantity": "4s +\u26a160kMF/s",
+        "output": "2xPta"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Polisher",
+    "name": "Polisher",
+    "input_energy": "\u26a1500kMF/s",
+    "capacity": "\u26a15MMF",
+    "pollution": "0%/h",
+    "size": "28x12",
+    "cost": "$1,200,000",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Power_dump",
+    "name": "Power dump",
+    "input_energy": "TransferRate\u26a11.5MMF/s * 4 nodes",
+    "capacity": "\u26a11MMF * 4 nodes",
+    "pollution": "",
+    "size": "4x5",
+    "cost": "$25000",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Precision_Assembler",
+    "name": "Precision Assembler",
+    "input_energy": "\u26a1167kMF/s-1MMF/s",
+    "capacity": "\u26a15MMF",
+    "pollution": "0%/h",
+    "size": "12x6",
+    "cost": "$1,000,000",
+    "recipe": [
+      {
+        "material": "4xSilicon+10xPlastic Pellets+\n2xCopper Plate",
+        "quantity": "5s +\u26a11MMF/s",
+        "output": "2xLogic Plate"
+      },
+      {
+        "material": "4xSilicon+1xAluminium Ingot",
+        "quantity": "5s +\u26a11MMF/s",
+        "output": "2xSemiconductor"
+      },
+      {
+        "material": "5xCoal+14xIron Ingot",
+        "quantity": "5s +\u26a11MMF/s",
+        "output": "20xGraphite Iron Electrode"
+      },
+      {
+        "material": "5xCoal+14xZinc",
+        "quantity": "5s +\u26a11MMF/s",
+        "output": "10xGraphite Zinc Electrode"
+      },
+      {
+        "material": "6xLogic Plate+16xCopper Wire+\n5xSemiconductor+\n10xGold Wire",
+        "quantity": "30s +\u26a1167kMF/s",
+        "output": "1x8X Microchip"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Press",
+    "name": "Press",
+    "input_energy": "\u26a159MF-9.804kMF/s",
+    "capacity": "\u26a1250kMF",
+    "pollution": "0%/h",
+    "size": "4x2",
+    "cost": "$409",
+    "recipe": [
+      {
+        "material": "1xCopper Ingot",
+        "quantity": "3.1s +\u26a11.29kMF/s",
+        "output": "1xCopper Plate"
+      },
+      {
+        "material": "1xIron Ingot",
+        "quantity": "5.1s +\u26a1784MF/s",
+        "output": "1xIron Plate"
+      },
+      {
+        "material": "1xSteel Ingot",
+        "quantity": "5.1s +\u26a19.804kMF/s",
+        "output": "1xSteel Plate"
+      },
+      {
+        "material": "1xPlanks",
+        "quantity": "5.1s +\u26a1784MF/s",
+        "output": "0.25xPlank^2"
+      },
+      {
+        "material": "1xIron Plate",
+        "quantity": "5.1s +\u26a159MF/s",
+        "output": "0.25xIron Plate^2"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Press_MK2",
+    "name": "Press MK2",
+    "input_energy": "\u26a140kMF/s-250kMF/s",
+    "capacity": "\u26a15MMF",
+    "pollution": "0%/h",
+    "size": "15x10",
+    "cost": "$333,333",
+    "recipe": [
+      {
+        "material": "20xIron Ingot",
+        "quantity": "8s +\u26a175kMF/s",
+        "output": "20xIron Plate"
+      },
+      {
+        "material": "20xSteel Ingot",
+        "quantity": "8s +\u26a1125kMF/s",
+        "output": "20xSteel Plate"
+      },
+      {
+        "material": "20xCopper Ingot",
+        "quantity": "4s +\u26a140kMF/s",
+        "output": "20xCopper Plate"
+      },
+      {
+        "material": "3xPowdered Tungsten Carbide",
+        "quantity": "4s +\u26a1250kMF/s",
+        "output": "1.5xTungsten Carbide Plate"
+      },
+      {
+        "material": "20xSteel Plate",
+        "quantity": "4s +\u26a1150kMF/s",
+        "output": "10xGear"
+      },
+      {
+        "material": "6xIron Plate",
+        "quantity": "4s +\u26a140kMF/s",
+        "output": "3xIron Plate^2"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Pressurized_Water_Filter",
+    "name": "Pressurized Water Filter",
+    "input_energy": "\u26a1200kMF/s",
+    "capacity": "\u26a11.1MMF",
+    "pollution": "0%/h",
+    "size": "9x6",
+    "cost": "$350,000",
+    "recipe": [
+      {
+        "material": "4xRich Soil+20xWater",
+        "quantity": "5s +\u26a1200kMF/s",
+        "output": "8xResidue+\n2x8 Karat Gold"
+      },
+      {
+        "material": "4x10 Karat Gold+20xWater",
+        "quantity": "5s +\u26a1200kMF/s",
+        "output": "4xResidue+\n2x12 Karat Gold"
+      },
+      {
+        "material": "4x18 Karat Gold+20xWater",
+        "quantity": "5s +\u26a1200kMF/s",
+        "output": "4xResidue+\n2x24 Karat Gold"
+      },
+      {
+        "material": "10xDirty Lithium Sulfate+20xWater",
+        "quantity": "5s +\u26a1200kMF/s",
+        "output": "10xResidue+\n10xLithium Sulfate"
+      },
+      {
+        "material": "5xMedium Earth Fragment+20xWater",
+        "quantity": "5s +\u26a1200kMF/s",
+        "output": "10xConcentrated Salt Solution+\n5xRaw Iron"
+      },
+      {
+        "material": "5xDeep Earth Fragment+20xWater",
+        "quantity": "5s +\u26a1200kMF/s",
+        "output": "2.5xNaphta+\n10xCoal"
+      },
+      {
+        "material": "5xTreated Rock+20xWater",
+        "quantity": "5s +\u26a1200kMF/s",
+        "output": "5xResidue+\n5xRock"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Research_Station1",
+    "name": "Research Station1",
+    "input_energy": "\u26a11.36kMF/s",
+    "capacity": "\u26a1250kMF",
+    "pollution": "0%/hr",
+    "size": "8x8",
+    "cost": "$75",
+    "recipe": [
+      {
+        "material": "RPMultiplier",
+        "quantity": "CurrentRP",
+        "output": "RP Gained"
+      },
+      {
+        "material": "1x",
+        "quantity": "<500",
+        "output": "30RP"
+      },
+      {
+        "material": "0.9x",
+        "quantity": "<1,200",
+        "output": "27RP"
+      },
+      {
+        "material": "0.8x",
+        "quantity": "<1,800",
+        "output": "24RP"
+      },
+      {
+        "material": "0.7x",
+        "quantity": "<2,200",
+        "output": "21RP"
+      },
+      {
+        "material": "0.6x",
+        "quantity": "<3,000",
+        "output": "18RP"
+      },
+      {
+        "material": "0.5x",
+        "quantity": "<5,000",
+        "output": "15RP"
+      },
+      {
+        "material": "0.4x",
+        "quantity": "<7,000",
+        "output": "12RP"
+      },
+      {
+        "material": "0.2x",
+        "quantity": "<12,000",
+        "output": "6RP"
+      },
+      {
+        "material": "0.1x",
+        "quantity": "Infinite",
+        "output": "3RP"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Residue_Refinery",
+    "name": "Residue Refinery",
+    "input_energy": "\u26a13MMF/s",
+    "capacity": "\u26a1200MMF",
+    "pollution": "0%/h",
+    "size": "6.5x5",
+    "cost": "$200,000",
+    "recipe": [
+      {
+        "material": "100xResidue",
+        "quantity": "60s +\u26a13 MMF/s",
+        "output": "5xCrude Oil+\n10xHeavy Oil+\n15xCrude Diesel"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Roller",
+    "name": "Roller",
+    "input_energy": "\u26a1500MF/s-7.5kMF/s",
+    "capacity": "\u26a1250kMF",
+    "pollution": "0%/h",
+    "size": "4x2",
+    "cost": "$411",
+    "recipe": [
+      {
+        "material": "2xCopper Plate",
+        "quantity": "8s +\u26a1500MF/s",
+        "output": "12xCopper Wire"
+      },
+      {
+        "material": "2xIron Plate",
+        "quantity": "8s +\u26a1750MF/s",
+        "output": "4xIron Coil"
+      },
+      {
+        "material": "2xSteel Ingot",
+        "quantity": "8s +\u26a16.25kMF/s",
+        "output": "2xSteel Rod"
+      },
+      {
+        "material": "2xSteel Plate",
+        "quantity": "8s +\u26a1750MF/s",
+        "output": "2xGear"
+      },
+      {
+        "material": "2xIron Ingot",
+        "quantity": "8s +\u26a1750MF/s",
+        "output": "16xNails"
+      },
+      {
+        "material": "2xGold Ingot",
+        "quantity": "8s +\u26a17.5kMF/s",
+        "output": "2xGold Wire"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Roller_MK2",
+    "name": "Roller MK2",
+    "input_energy": "\u26a150kMF-200kMF/s",
+    "capacity": "\u26a12MMF",
+    "pollution": "0%/h",
+    "size": "15x12",
+    "cost": "$150,000",
+    "recipe": [
+      {
+        "material": "20xCopper Plate",
+        "quantity": "8s +\u26a125kMF/s",
+        "output": "120xCopper Wire"
+      },
+      {
+        "material": "20xIron Plate",
+        "quantity": "8s +\u26a150kMF/s",
+        "output": "40xIron Coil"
+      },
+      {
+        "material": "20xSteel Ingot",
+        "quantity": "8s +\u26a1100kMF/s",
+        "output": "20xSteel Coil"
+      },
+      {
+        "material": "4xGold Ingot",
+        "quantity": "8s +\u26a125kMF/s",
+        "output": "40xGold Wire"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/RTG",
+    "name": "RTG",
+    "input_energy": "Output\u26a11MF/s",
+    "capacity": "\u26a1100MF/s",
+    "pollution": "",
+    "size": "2x2",
+    "cost": "$100,000",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Sand_Excavator",
+    "name": "Sand Excavator",
+    "input_energy": "\u26a1300kMF/s",
+    "capacity": "\u26a11.5MMF",
+    "pollution": "0%/h",
+    "size": "9x8",
+    "cost": "$10,000",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Sawmill",
+    "name": "Sawmill",
+    "input_energy": "\u26a12.927kMF/s",
+    "capacity": "",
+    "pollution": "0%/h",
+    "size": "8x4",
+    "cost": "$800",
+    "recipe": [
+      {
+        "material": "1xOak Log",
+        "quantity": "20s +\u26a12.927kMF/s",
+        "output": "2xCut Oak Log"
+      },
+      {
+        "material": "1xCut Oak Log",
+        "quantity": "20s +\u26a12.927kMF/s",
+        "output": "1xChunk Plank"
+      },
+      {
+        "material": "1xChunk Plank",
+        "quantity": "20s +\u26a12.927kMF/s",
+        "output": "3xPlanks"
+      },
+      {
+        "material": "1xIron Ingot",
+        "quantity": "20s +\u26a12.927kMF/s",
+        "output": "4xIron Plate"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Scrubber",
+    "name": "Scrubber",
+    "input_energy": "\u26a115kMF/s",
+    "capacity": "",
+    "pollution": "-3.24%/h (Water)-3.57%/h (Filtered Water)-6.29%/h (Distilled Water)+6.48%/h (Residue)",
+    "size": "8x8",
+    "cost": "$30,000",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Soil_Excavator",
+    "name": "Soil Excavator",
+    "input_energy": "\u26a1300kMF/s",
+    "capacity": "\u26a1400kMF",
+    "pollution": "0%/h",
+    "size": "10x5",
+    "cost": "$250,000",
+    "recipe": [
+      {
+        "material": "10xWater",
+        "quantity": "1s +\u26a1300kMF/s",
+        "output": "1xSoil"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Solar_Heater",
+    "name": "Solar Heater",
+    "input_energy": "Capacity\u26a10MF",
+    "capacity": "\u26a10MF",
+    "pollution": "0%/h",
+    "size": "7x7",
+    "cost": "$1,500",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Solar_Panels/4_Panel_Solar",
+    "name": "Solar Panels/4 Panel Solar",
+    "input_energy": "Pollution0%/h",
+    "capacity": "\u26a11.5MMF",
+    "pollution": "0%/h",
+    "size": "4x2",
+    "cost": "$500,000",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Solar_Panels/Dev_Solar_Panel",
+    "name": "Solar Panels/Dev Solar Panel",
+    "input_energy": "Pollution0%/h",
+    "capacity": "\u26a1600GMF (MV) 9.42TMF (HV)",
+    "pollution": "0%/h",
+    "size": "2x2",
+    "cost": "$\u221e",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Solar_Panels/Real_Dev_Solar_Panel",
+    "name": "Solar Panels/Real Dev Solar Panel",
+    "input_energy": "\u26a1600GMF/s",
+    "capacity": "",
+    "pollution": "0%/h",
+    "size": "2x2",
+    "cost": "$5,000",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Solar_Panels/Solar_Farm1",
+    "name": "Solar Panels/Solar Farm1",
+    "input_energy": "Output\u26a10-300kMF/s",
+    "capacity": "\u26a14MMF",
+    "pollution": "",
+    "size": "20x20",
+    "cost": "$200,000",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Solar_Panels/Solar_Panel",
+    "name": "Solar Panels/Solar Panel",
+    "input_energy": "Output\u26a10-264MF/s",
+    "capacity": "\u26a11kMF",
+    "pollution": "",
+    "size": "2x2",
+    "cost": "$80",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Solar_Panels/Solar_Panel2",
+    "name": "Solar Panels/Solar Panel2",
+    "input_energy": "Output\u26a10-1.35kMF/s",
+    "capacity": "\u26a15kMF",
+    "pollution": "",
+    "size": "4x2",
+    "cost": "$1500",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Solar_Panels/Solar_Panel3",
+    "name": "Solar Panels/Solar Panel3",
+    "input_energy": "Output\u26a10-9.6kMF/s",
+    "capacity": "\u26a150kMF",
+    "pollution": "",
+    "size": "2x2",
+    "cost": "$5000",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Steam_Condenser",
+    "name": "Steam Condenser",
+    "input_energy": "\u26a1500kMF/s",
+    "capacity": "\u26a15MMF",
+    "pollution": "0%/h",
+    "size": "26x8",
+    "cost": "$2,400,000",
+    "recipe": [
+      {
+        "material": "800xDistilled Water+24000xLow Pressure Steam",
+        "quantity": "1s +\u26a1500kMF/s",
+        "output": "800xDistilled Water+\n800xCondensate"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Steam_Cracking_Plant",
+    "name": "Steam Cracking Plant",
+    "input_energy": "\u26a160kMF/s",
+    "capacity": "",
+    "pollution": "0.432%/h",
+    "size": "4x4",
+    "cost": "$150,000",
+    "recipe": [
+      {
+        "material": "2xCrude Oil+150xSteam",
+        "quantity": "Variable/s +\u26a160kMF/s",
+        "output": "2xParaxylene+\n3xEthylene"
+      },
+      {
+        "material": "15xLight Oil+150xSteam",
+        "quantity": "Variable/s +\u26a160kMF/s",
+        "output": "12xCrude Diesel+\n3xResidue"
+      },
+      {
+        "material": "20xHeavy Oil+150xSteam",
+        "quantity": "Variable/s +\u26a160kMF/s",
+        "output": "12xLight Oil+\n8xResidue"
+      },
+      {
+        "material": "20xHeavy Oil+3xHydrogen",
+        "quantity": "3s +\u26a160kMF/s",
+        "output": "15xNaphta+\n5xResidue"
+      },
+      {
+        "material": "20xNaphta+3xHydrogen",
+        "quantity": "3s +\u26a160kMF/s",
+        "output": "15xLight Oil+\n5xResidue"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/User:TheRealArcticSnowLunaDoggo",
+    "name": "User:TheRealArcticSnowLunaDoggo",
+    "input_energy": "\u26a1105kMF/s",
+    "capacity": "\u26a1600kMF",
+    "pollution": "0%/h",
+    "size": "4x4",
+    "cost": "$1,000,000,000",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Trommel",
+    "name": "Trommel",
+    "input_energy": "\u26a117.9kMF/s",
+    "capacity": "\u26a1600kMF",
+    "pollution": "0%/h",
+    "size": "12x6",
+    "cost": "$1,000,000",
+    "recipe": [
+      {
+        "material": "80xWater+40xSoil",
+        "quantity": "28s +\u26a117.9kMF/s",
+        "output": "16xRich Soil+\n8xBauxite Residue+\n4xGravel+\n4xSand"
+      },
+      {
+        "material": "28xWater+14xTreated Rock",
+        "quantity": "28s +\u26a117.9kMF/s",
+        "output": "7x10 Karat Gold+\n14xRich Soil+\n7xRaw Lead+\n7xBauxite Residue"
+      },
+      {
+        "material": "28xWater+28xMedium Earth Fragment",
+        "quantity": "28s +\u26a117.9kMF/s",
+        "output": "14xShallow Earth Fragment+\n14xRaw Iron+\n7xTable Salt+\n7xRock"
+      },
+      {
+        "material": "5.6xHydrochloric Acid+29xDeep Earth Fragment",
+        "quantity": "28s +\u26a117.9kMF/s",
+        "output": "11.2x18 Karat Gold+\n10xBauxite Residue"
+      },
+      {
+        "material": "21xFiltered Water+9.3xDeep Earth Fragment",
+        "quantity": "28s +\u26a117.9kMF/s",
+        "output": "7xCoal+\n9.3xPowdered Tungsten"
+      }
+    ]
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Uranium_Drill",
+    "name": "Uranium Drill",
+    "input_energy": "\u26a11.2GMF/s",
+    "capacity": "\u26a11GMF",
+    "pollution": "2.16%/h",
+    "size": "6x2",
+    "cost": "$3,500,000",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Water_Pump",
+    "name": "Water Pump",
+    "input_energy": "\u26a1600MF/s",
+    "capacity": "\u26a115kMF",
+    "pollution": "0%/h",
+    "size": "4x4",
+    "cost": "$60",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Water_Pump2",
+    "name": "Water Pump2",
+    "input_energy": "\u26a1700MF/s",
+    "capacity": "\u26a150kMF",
+    "pollution": "0%/h",
+    "size": "4x4",
+    "cost": "$6,000",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Water_Treatment_Plant",
+    "name": "Water Treatment Plant",
+    "input_energy": "\u26a12MMF/s",
+    "capacity": "\u26a15MMF",
+    "pollution": "0%/h",
+    "size": "30x30",
+    "cost": "$700,001",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Wind_Turbines/3_Turbine_Wind",
+    "name": "Wind Turbines/3 Turbine Wind",
+    "input_energy": "Pollution0%/h",
+    "capacity": "\u26a1500kMF",
+    "pollution": "0%/h",
+    "size": "4x4",
+    "cost": "$250,000",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Wind_Turbines/Wind_Turbine1",
+    "name": "Wind Turbines/Wind Turbine1",
+    "input_energy": "Pollution0%/h",
+    "capacity": "\u26a15kMF",
+    "pollution": "0%/h",
+    "size": "2x2",
+    "cost": "$400",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Wind_Turbines/Wind_Turbine2",
+    "name": "Wind Turbines/Wind Turbine2",
+    "input_energy": "Pollution0%/h",
+    "capacity": "\u26a150kMF",
+    "pollution": "0%/h",
+    "size": "4x4",
+    "cost": "$1,785",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Wind_Turbines/Wind_Turbine3",
+    "name": "Wind Turbines/Wind Turbine3",
+    "input_energy": "Pollution0%/h",
+    "capacity": "\u26a11MMF",
+    "pollution": "0%/h",
+    "size": "10x10",
+    "cost": "$100,000",
+    "recipe": []
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Wind_Turbines/Wind_Turbine4",
+    "name": "Wind Turbines/Wind Turbine4",
+    "input_energy": "Pollution0%/h",
+    "capacity": "\u26a11MMF",
+    "pollution": "0%/h",
+    "size": "18x18",
+    "cost": "$200,000",
+    "recipe": []
+  }
+]

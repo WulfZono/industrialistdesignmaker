@@ -1,0 +1,832 @@
+[
+  {
+    "url": "https://industrialist.fandom.com/wiki/Acetic_Acid",
+    "name": "Acetic Acid",
+    "value": "$14.5"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Alumina",
+    "name": "Alumina",
+    "value": "$100"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Alumina_Dust",
+    "name": "Alumina Dust",
+    "value": "$90"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Aluminium_Ingot",
+    "name": "Aluminium Ingot",
+    "value": "$800"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Bauxite_Residue",
+    "name": "Bauxite Residue",
+    "value": "$50"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Black_Dye",
+    "name": "Black Dye",
+    "value": "$8.7"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Brass_Ingot",
+    "name": "Brass Ingot",
+    "value": "$80"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Cat",
+    "name": "Cat",
+    "value": "$20000"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Chair",
+    "name": "Chair",
+    "value": "$1029.50"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Charged_Lithium-Ion_Battery",
+    "name": "Charged Lithium-Ion Battery",
+    "value": "$4,000"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Cheap_Water_Bottle",
+    "name": "Cheap Water Bottle",
+    "value": "$130.50"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Chlorine",
+    "name": "Chlorine",
+    "value": "$0.2"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Chunk_Plank",
+    "name": "Chunk Plank",
+    "value": "$3.5"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Coal",
+    "name": "Coal",
+    "value": "$5.2"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Coke_Fuel",
+    "name": "Coke Fuel",
+    "value": "$18.0"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Concentrated_Salt_Solution",
+    "name": "Concentrated Salt Solution",
+    "value": "$2"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Condensate",
+    "name": "Condensate",
+    "value": "$0.1"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Copper_Ingot",
+    "name": "Copper Ingot",
+    "value": "$26.7"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Copper_Mix",
+    "name": "Copper Mix",
+    "value": "$3"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Copper_Plate",
+    "name": "Copper Plate",
+    "value": "$32.9"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Copper_Powder",
+    "name": "Copper Powder",
+    "value": "$7"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Copper_Wire",
+    "name": "Copper Wire",
+    "value": "$7.3"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Crankshaft",
+    "name": "Crankshaft",
+    "value": "$754"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Crude_Oil",
+    "name": "Crude Oil",
+    "value": "$11.6"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Crushed_Bauxite",
+    "name": "Crushed Bauxite",
+    "value": "$75.0"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Cut_Oak_Log",
+    "name": "Cut Oak Log",
+    "value": "$3.5"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Diesel/Crude_Diesel",
+    "name": "Diesel/Crude Diesel",
+    "value": "$13.1"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Diesel/Diesel",
+    "name": "Diesel/Diesel",
+    "value": "$30.5"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Diesel/Poor_Quality_Diesel",
+    "name": "Diesel/Poor Quality Diesel",
+    "value": "$21.8"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Diesel/Refined_Diesel",
+    "name": "Diesel/Refined Diesel",
+    "value": "$40.60"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Dirty_Lithium_Sulfate",
+    "name": "Dirty Lithium Sulfate",
+    "value": "$60"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Distilled_Water",
+    "name": "Distilled Water",
+    "value": "$1"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Drill_Heads/Copper_Drill_Head",
+    "name": "Drill Heads/Copper Drill Head",
+    "value": "$20000"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Drill_Heads/Iron_Drill_Head",
+    "name": "Drill Heads/Iron Drill Head",
+    "value": "$145000"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Drill_Heads/Steel_Drill_Head",
+    "name": "Drill Heads/Steel Drill Head",
+    "value": "$195000"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Drill_Heads/Tungsten_Carbide_Drill_Head",
+    "name": "Drill Heads/Tungsten Carbide Drill Head",
+    "value": "$800000"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Dynamite",
+    "name": "Dynamite",
+    "value": "$90"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Earth_Fragments/Deep_Earth_Fragment",
+    "name": "Earth Fragments/Deep Earth Fragment",
+    "value": "$200"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Earth_Fragments/Medium_Earth_Fragment",
+    "name": "Earth Fragments/Medium Earth Fragment",
+    "value": "$120"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Earth_Fragments/Shallow_Earth_Fragment",
+    "name": "Earth Fragments/Shallow Earth Fragment",
+    "value": "$30"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Electric_Motor",
+    "name": "Electric Motor",
+    "value": "$4,500"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Electromagnet",
+    "name": "Electromagnet",
+    "value": "$950"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Ethanol",
+    "name": "Ethanol",
+    "value": "$5.80"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Ethylene",
+    "name": "Ethylene",
+    "value": "$14.50"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Exhaust",
+    "name": "Exhaust",
+    "value": "$-0.5"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Ferroaluminium_Alloy_Ingot",
+    "name": "Ferroaluminium Alloy Ingot",
+    "value": "$2,000"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Ferroaluminium_Magnet",
+    "name": "Ferroaluminium Magnet",
+    "value": "$8,500"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Filter",
+    "name": "Filter",
+    "value": "$20"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Filtered_Water",
+    "name": "Filtered Water",
+    "value": "$0.6"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Fracking_Oil",
+    "name": "Fracking Oil",
+    "value": "$1"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Galvanized_Steel",
+    "name": "Galvanized Steel",
+    "value": "$123"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Gasoline",
+    "name": "Gasoline",
+    "value": "$40.6"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/GasolineE10",
+    "name": "GasolineE10",
+    "value": "$57"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Gear",
+    "name": "Gear",
+    "value": "$98.60"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Gearbox",
+    "name": "Gearbox",
+    "value": "$2,552"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Glass",
+    "name": "Glass",
+    "value": "$80"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Gold_Ingot",
+    "name": "Gold Ingot",
+    "value": "$4,250"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Gold_Wire",
+    "name": "Gold Wire",
+    "value": "$200"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Gold/10_Karat_Gold",
+    "name": "Gold/10 Karat Gold",
+    "value": "$300"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Gold/12_Karat_Gold",
+    "name": "Gold/12 Karat Gold",
+    "value": "$500"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Gold/18_Karat_Gold",
+    "name": "Gold/18 Karat Gold",
+    "value": "$800"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Gold/24_Karat_Gold",
+    "name": "Gold/24 Karat Gold",
+    "value": "$1,200"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Gold/8_Karat_Gold",
+    "name": "Gold/8 Karat Gold",
+    "value": "$160"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Graphite-Iron_Electrode",
+    "name": "Graphite-Iron Electrode",
+    "value": "$80"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Graphite-Zinc_Electrode",
+    "name": "Graphite-Zinc Electrode",
+    "value": "$60"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Gravel",
+    "name": "Gravel",
+    "value": "$3"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Gunpowder",
+    "name": "Gunpowder",
+    "value": "$70"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Heavy_Oil",
+    "name": "Heavy Oil",
+    "value": "$5"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/High_Pressure_Steam",
+    "name": "High Pressure Steam",
+    "value": "$0.03"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Hot_Crude_Oil",
+    "name": "Hot Crude Oil",
+    "value": "$0.1"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Hydrochloric_Acid",
+    "name": "Hydrochloric Acid",
+    "value": "$80"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Hydrogen",
+    "name": "Hydrogen",
+    "value": "$0.02"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Hydrogen_Sulfide",
+    "name": "Hydrogen Sulfide",
+    "value": "$8"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Insulated_Wire",
+    "name": "Insulated Wire",
+    "value": "$40"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Iron_Coil",
+    "name": "Iron Coil",
+    "value": "$43.9"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Iron_Ingot",
+    "name": "Iron Ingot",
+    "value": "$65.54"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Iron_Mix",
+    "name": "Iron Mix",
+    "value": "$10"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Iron_Plate",
+    "name": "Iron Plate",
+    "value": "$70.2"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Iron_Plate%5E2",
+    "name": "Iron Plate^2",
+    "value": "$295.8"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Iron_Powder",
+    "name": "Iron Powder",
+    "value": "$15"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Lead_Ingot",
+    "name": "Lead Ingot",
+    "value": "$25"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Leaded_Gasoline",
+    "name": "Leaded Gasoline",
+    "value": "$112"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Light_Oil",
+    "name": "Light Oil",
+    "value": "$7"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Liquid_Aluminium",
+    "name": "Liquid Aluminium",
+    "value": "$200"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Liquid_Brass",
+    "name": "Liquid Brass",
+    "value": "$30"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Liquid_Copper",
+    "name": "Liquid Copper",
+    "value": "$7.5"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Liquid_Glass",
+    "name": "Liquid Glass",
+    "value": "$10"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Liquid_Gold",
+    "name": "Liquid Gold",
+    "value": "$1,000"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Liquid_Iron",
+    "name": "Liquid Iron",
+    "value": "$23.20"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Liquid_Lead",
+    "name": "Liquid Lead",
+    "value": "$5"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Liquid_Sulfur",
+    "name": "Liquid Sulfur",
+    "value": "$12"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Lithium_Battery_Pack",
+    "name": "Lithium Battery Pack",
+    "value": "$85,000"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Lithium_Brine",
+    "name": "Lithium Brine",
+    "value": "$25"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Lithium_Carbonate",
+    "name": "Lithium Carbonate",
+    "value": "$200"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Lithium_Ore",
+    "name": "Lithium Ore",
+    "value": "$10"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Lithium_Sulfate",
+    "name": "Lithium Sulfate",
+    "value": "$100"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/LNG",
+    "name": "LNG",
+    "value": "$174"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Logic_Plate",
+    "name": "Logic Plate",
+    "value": "$65"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Low_Pressure_Steam",
+    "name": "Low Pressure Steam",
+    "value": "$0.03"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Machine_Oil",
+    "name": "Machine Oil",
+    "value": "$29"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/MEG",
+    "name": "MEG",
+    "value": "$2.90"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Microchip",
+    "name": "Microchip",
+    "value": "$4000"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Microchip_Scrap",
+    "name": "Microchip Scrap",
+    "value": "$0"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Molten_Ferroaluminium_Alloy",
+    "name": "Molten Ferroaluminium Alloy",
+    "value": "$1,250"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Molten_Purple_Gold",
+    "name": "Molten Purple Gold",
+    "value": "$580"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Nails",
+    "name": "Nails",
+    "value": "$2.9"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Naphta",
+    "name": "Naphta",
+    "value": "$15.6"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Oak_Log",
+    "name": "Oak Log",
+    "value": "$5.8"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Oil_Bottle",
+    "name": "Oil Bottle",
+    "value": "$208.8"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Oxygen",
+    "name": "Oxygen",
+    "value": "$0.01"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Packed_Present",
+    "name": "Packed Present",
+    "value": "1 Present/u$300After Event"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Paper",
+    "name": "Paper",
+    "value": "$14.5"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Paraxylene",
+    "name": "Paraxylene",
+    "value": "$14.50"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Planks",
+    "name": "Planks",
+    "value": "$13.1"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Plank%5E2",
+    "name": "Plank^2",
+    "value": "$40.6"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Plastic_Bottle",
+    "name": "Plastic Bottle",
+    "value": "$72.50"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Plastic_Casing",
+    "name": "Plastic Casing",
+    "value": "$145"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Plastic_Pellets",
+    "name": "Plastic Pellets",
+    "value": "$0.9"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Powdered_Tungsten",
+    "name": "Powdered Tungsten",
+    "value": "$150"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Powdered_Tungsten_Carbide",
+    "name": "Powdered Tungsten Carbide",
+    "value": "$210"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Present_Box",
+    "name": "Present Box",
+    "value": "$173"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/PTA",
+    "name": "PTA",
+    "value": "$2.90"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Purple_Gold_Ingot",
+    "name": "Purple Gold Ingot",
+    "value": "$20,000"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Raw_Copper",
+    "name": "Raw Copper",
+    "value": "$5.51"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Raw_Gas",
+    "name": "Raw Gas",
+    "value": "$0.03"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Raw_Iron",
+    "name": "Raw Iron",
+    "value": "$5.80"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Raw_Lead",
+    "name": "Raw Lead",
+    "value": "$10"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Raw_Zinc",
+    "name": "Raw Zinc",
+    "value": "$5"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Refined_Diesel_Bottle",
+    "name": "Refined Diesel Bottle",
+    "value": "$449.5"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Refined_Gas",
+    "name": "Refined Gas",
+    "value": "$0.3"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Residue",
+    "name": "Residue",
+    "value": "$-5.8"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Residue_Bottle",
+    "name": "Residue Bottle",
+    "value": "$0"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Rich_Soil",
+    "name": "Rich Soil",
+    "value": "$5"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Rock",
+    "name": "Rock",
+    "value": "$4"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Rubber",
+    "name": "Rubber",
+    "value": "$19.4"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Sand",
+    "name": "Sand",
+    "value": "$5"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Semiconductor",
+    "name": "Semiconductor",
+    "value": "$650"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Silicon",
+    "name": "Silicon",
+    "value": "$50"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Sodium_Carbonate",
+    "name": "Sodium Carbonate",
+    "value": "$8"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Sodium_Hydroxide_Solution",
+    "name": "Sodium Hydroxide Solution",
+    "value": "$10"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Soil",
+    "name": "Soil",
+    "value": "$2"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Steam",
+    "name": "Steam",
+    "value": "$0.03"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Steel_Coil",
+    "name": "Steel Coil",
+    "value": "$75"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Steel_Ingot",
+    "name": "Steel Ingot",
+    "value": "$48.72"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Steel_Plate",
+    "name": "Steel Plate",
+    "value": "$89.9"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Steel_Rod",
+    "name": "Steel Rod",
+    "value": "$92.80"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Sulfur",
+    "name": "Sulfur",
+    "value": "$20"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Sulfur_Dioxide",
+    "name": "Sulfur Dioxide",
+    "value": "$2"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Sulfur_Trioxide",
+    "name": "Sulfur Trioxide",
+    "value": "$2.5"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Sulfuric_Acid",
+    "name": "Sulfuric Acid",
+    "value": "$65"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Table_Salt",
+    "name": "Table Salt",
+    "value": "$4.2"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Tetraethyllead",
+    "name": "Tetraethyllead",
+    "value": "$21"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Tire",
+    "name": "Tire",
+    "value": "$2000"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Tire_Rim",
+    "name": "Tire Rim",
+    "value": "$1800"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Toy",
+    "name": "Toy",
+    "value": "$101.5"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Treated_Raw_Copper",
+    "name": "Treated Raw Copper",
+    "value": "$6"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Treated_Raw_Iron",
+    "name": "Treated Raw Iron",
+    "value": "$8"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Treated_Rock",
+    "name": "Treated Rock",
+    "value": "$15"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Tungsten_Carbide_Plate",
+    "name": "Tungsten Carbide Plate",
+    "value": "$600"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Uncharged_Lithium-Ion_Battery",
+    "name": "Uncharged Lithium-Ion Battery",
+    "value": "$2,000"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Uranium",
+    "name": "Uranium",
+    "value": "$8,000"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Water",
+    "name": "Water",
+    "value": "$0.2"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Water_Bottle",
+    "name": "Water Bottle",
+    "value": "$174"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Water-Free_Gas",
+    "name": "Water-Free Gas",
+    "value": "$0.15"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Zinc",
+    "name": "Zinc",
+    "value": "$20"
+  },
+  {
+    "url": "https://industrialist.fandom.com/wiki/Zinc_Sulfate",
+    "name": "Zinc Sulfate",
+    "value": "$10"
+  }
+]
