@@ -59,7 +59,7 @@ def parse_machine_page(url):
         if prev and "Power" in prev:
             text = info_div.get_text(strip=True)
             if text.startswith("Input"):
-                text = text[5:].lstrip(": \u00A0")  # \u00A0 is non-breaking space
+                text = text[5:].lstrip(": \u00A0")  
             data["input_energy"] = text
             break 
     # Find capacity
@@ -68,7 +68,7 @@ def parse_machine_page(url):
             text = info_div.get_text(strip=True)
             if text.startswith("Capacity"):
             # Remove "Capacity" and any following colon or whitespace
-                text = text[len("Capacity"):].lstrip(": \u00A0")  # \u00A0 is non-breaking space
+                text = text[len("Capacity"):].lstrip(": \u00A0")  
              
             data["capacity"] = text
             break
@@ -105,11 +105,16 @@ def parse_machine_page(url):
         rows = table.find_all("tr")
         for row in rows:
             cells = row.find_all(["td", "th"])
-            if len(cells) >= 2:
+            if all(cell.name == "th" for cell in cells):
+                continue
+            if len(cells) >= 3:
                 material = cells[0].get_text(strip=True)
                 qty = cells[1].get_text(strip=True)
-                output = cells[2].get_text(strip=True) if len(cells) > 2 else ""
+                output = cells[2].get_text(strip=True)
                 if material and qty and output and "Power" != qty:
+                    data["recipe"].append({"material": material, "quantity": qty, "output": output})
+                elif not material and qty and output and "Power" != qty:
+                    material = ""
                     data["recipe"].append({"material": material, "quantity": qty, "output": output})
     return data
 
